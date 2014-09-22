@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "devDependencies": {
+    "bluebird": "^2.3.2",
+    "cheerio": "^0.17.0",
+    "request": "^2.37.0"
+  }
+}
