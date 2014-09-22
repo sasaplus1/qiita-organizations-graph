@@ -1,0 +1,13 @@
+gems:
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+  - node_modules
+  - package.json
+  - server.js
+  - vendor
