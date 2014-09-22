@@ -1,0 +1,4818 @@
+{
+  "organizations": [
+    {
+      "name": "アライドアーキテクツ株式会社",
+      "page": "http://qiita.com/organizations/allied-architects",
+      "members": [
+        {
+          "name": "happy_ryo",
+          "post": 25,
+          "stock": 406
+        },
+        {
+          "name": "t_ishida",
+          "post": 60,
+          "stock": 305
+        },
+        {
+          "name": "checkpoint",
+          "post": 11,
+          "stock": 168
+        },
+        {
+          "name": "cobonas",
+          "post": 6,
+          "stock": 32
+        },
+        {
+          "name": "massa142",
+          "post": 16,
+          "stock": 158
+        }
+      ]
+    },
+    {
+      "name": "スタンドファーム株式会社",
+      "page": "http://qiita.com/organizations/standfirm",
+      "members": [
+        {
+          "name": "toyoshi",
+          "post": 63,
+          "stock": 468
+        },
+        {
+          "name": "Dominion525",
+          "post": 7,
+          "stock": 75
+        },
+        {
+          "name": "s3pw",
+          "post": 1,
+          "stock": 554
+        },
+        {
+          "name": "RKTM@github",
+          "post": 1,
+          "stock": 2
+        },
+        {
+          "name": "eitoball@github",
+          "post": 1,
+          "stock": 5
+        },
+        {
+          "name": "dounokouno",
+          "post": 11,
+          "stock": 31
+        }
+      ]
+    },
+    {
+      "name": "株式会社ソニックガーデン",
+      "page": "http://qiita.com/organizations/sonicgarden",
+      "members": [
+        {
+          "name": "mat_aki",
+          "post": 11,
+          "stock": 227
+        },
+        {
+          "name": "interu",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "LuckOfWise",
+          "post": 5,
+          "stock": 139
+        },
+        {
+          "name": "mah_lab",
+          "post": 27,
+          "stock": 379
+        },
+        {
+          "name": "jnchito",
+          "post": 60,
+          "stock": 5207
+        },
+        {
+          "name": "maedana",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "regonn",
+          "post": 13,
+          "stock": 151
+        },
+        {
+          "name": "bomcat",
+          "post": 2,
+          "stock": 15
+        },
+        {
+          "name": "ruzia",
+          "post": 3,
+          "stock": 140
+        }
+      ]
+    },
+    {
+      "name": "Increments株式会社",
+      "page": "http://qiita.com/organizations/increments",
+      "members": [
+        {
+          "name": "yaotti",
+          "post": 151,
+          "stock": 3716
+        },
+        {
+          "name": "kony",
+          "post": 14,
+          "stock": 171
+        },
+        {
+          "name": "tatata111",
+          "post": 1,
+          "stock": 16
+        },
+        {
+          "name": "htomine",
+          "post": 1,
+          "stock": 5
+        },
+        {
+          "name": "yuku_t",
+          "post": 152,
+          "stock": 8366
+        },
+        {
+          "name": "uasi",
+          "post": 86,
+          "stock": 4547
+        },
+        {
+          "name": "r7kamura",
+          "post": 14,
+          "stock": 1215
+        },
+        {
+          "name": "tomoasleep",
+          "post": 1,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "Wantedly, Inc.",
+      "page": "http://qiita.com/organizations/wantedly",
+      "members": [
+        {
+          "name": "ferasyasin@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "akiks",
+          "post": 3,
+          "stock": 18
+        },
+        {
+          "name": "hottestseason",
+          "post": 1,
+          "stock": 286
+        },
+        {
+          "name": "reikubonaga",
+          "post": 43,
+          "stock": 1689
+        },
+        {
+          "name": "susieyy",
+          "post": 19,
+          "stock": 2335
+        },
+        {
+          "name": "gakuh",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kawasy",
+          "post": 10,
+          "stock": 290
+        },
+        {
+          "name": "awakia",
+          "post": 90,
+          "stock": 4267
+        },
+        {
+          "name": "spesnova",
+          "post": 17,
+          "stock": 1188
+        },
+        {
+          "name": "imaimiami",
+          "post": 7,
+          "stock": 55
+        },
+        {
+          "name": "yutori_enginner",
+          "post": 21,
+          "stock": 223
+        },
+        {
+          "name": "jun0342",
+          "post": 2,
+          "stock": 16
+        },
+        {
+          "name": "suzukihr",
+          "post": 10,
+          "stock": 786
+        },
+        {
+          "name": "yoshimikeisui",
+          "post": 1,
+          "stock": 8
+        },
+        {
+          "name": "yrmts",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社シェアウィズ",
+      "page": "http://qiita.com/organizations/share-wis",
+      "members": [
+        {
+          "name": "akira-hamada",
+          "post": 29,
+          "stock": 199
+        },
+        {
+          "name": "torimeshi1221",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "takehiro_t59",
+          "post": 4,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "name": "Beatrobo Inc.",
+      "page": "http://qiita.com/organizations/beatrobo",
+      "members": [
+        {
+          "name": "takashi",
+          "post": 13,
+          "stock": 172
+        },
+        {
+          "name": "laprasDrum",
+          "post": 5,
+          "stock": 112
+        },
+        {
+          "name": "DNPP",
+          "post": 1,
+          "stock": 10
+        },
+        {
+          "name": "hideyuki",
+          "post": 7,
+          "stock": 28
+        },
+        {
+          "name": "pieerre",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "COOKPAD",
+      "page": "http://qiita.com/organizations/cookpad",
+      "members": [
+        {
+          "name": "monja415",
+          "post": 1,
+          "stock": 133
+        },
+        {
+          "name": "negipo",
+          "post": 1,
+          "stock": 22
+        },
+        {
+          "name": "PENGUINANA_",
+          "post": 7,
+          "stock": 85
+        },
+        {
+          "name": "makimoto",
+          "post": 3,
+          "stock": 17
+        },
+        {
+          "name": "ryo_katsuma",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "dddaisuke",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "tomoya55",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kwappa",
+          "post": 9,
+          "stock": 23
+        },
+        {
+          "name": "sora_h",
+          "post": 7,
+          "stock": 491
+        },
+        {
+          "name": "tkyowa",
+          "post": 2,
+          "stock": 31
+        },
+        {
+          "name": "rosylilly",
+          "post": 8,
+          "stock": 376
+        },
+        {
+          "name": "hotchpotch",
+          "post": 25,
+          "stock": 511
+        },
+        {
+          "name": "mrkn",
+          "post": 7,
+          "stock": 76
+        },
+        {
+          "name": "y_310",
+          "post": 7,
+          "stock": 37
+        },
+        {
+          "name": "mirakui",
+          "post": 1,
+          "stock": 44
+        },
+        {
+          "name": "kishikawakatsumi",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yoshiori",
+          "post": 7,
+          "stock": 385
+        },
+        {
+          "name": "tanukiti1987",
+          "post": 3,
+          "stock": 18
+        },
+        {
+          "name": "kaa",
+          "post": 7,
+          "stock": 190
+        },
+        {
+          "name": "takai@github",
+          "post": 5,
+          "stock": 59
+        },
+        {
+          "name": "lchin",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "satoship",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社Aiming",
+      "page": "http://qiita.com/organizations/aiming",
+      "members": [
+        {
+          "name": "akineko",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kyubuns",
+          "post": 8,
+          "stock": 102
+        },
+        {
+          "name": "tosik",
+          "post": 12,
+          "stock": 58
+        },
+        {
+          "name": "holysugar",
+          "post": 3,
+          "stock": 21
+        },
+        {
+          "name": "enpel",
+          "post": 23,
+          "stock": 70
+        },
+        {
+          "name": "zaki@github",
+          "post": 1,
+          "stock": 8
+        },
+        {
+          "name": "Toshi@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "skuroki@github",
+          "post": 4,
+          "stock": 14
+        },
+        {
+          "name": "chiepomme",
+          "post": 3,
+          "stock": 35
+        },
+        {
+          "name": "shiwano",
+          "post": 2,
+          "stock": 8
+        },
+        {
+          "name": "shibacow",
+          "post": 12,
+          "stock": 160
+        }
+      ]
+    },
+    {
+      "name": "株式会社Fablic",
+      "page": "http://qiita.com/organizations/fablic",
+      "members": [
+        {
+          "name": "ninjinkun",
+          "post": 19,
+          "stock": 187
+        },
+        {
+          "name": "cutmail",
+          "post": 9,
+          "stock": 606
+        },
+        {
+          "name": "takejune",
+          "post": 5,
+          "stock": 18
+        },
+        {
+          "name": "yutadayo",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yamy",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "tmnb",
+          "post": 3,
+          "stock": 27
+        },
+        {
+          "name": "unlearned",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社アクトキャット",
+      "page": "http://qiita.com/organizations/actcat",
+      "members": [
+        {
+          "name": "sumyapp",
+          "post": 8,
+          "stock": 150
+        },
+        {
+          "name": "inayuta",
+          "post": 3,
+          "stock": 15
+        },
+        {
+          "name": "yoneapp",
+          "post": 18,
+          "stock": 81
+        },
+        {
+          "name": "ofuji",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社サイバーエージェント",
+      "page": "http://qiita.com/organizations/cyberagent",
+      "members": [
+        {
+          "name": "HToyokawa",
+          "post": 4,
+          "stock": 0
+        },
+        {
+          "name": "shokos@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "k_ui",
+          "post": 61,
+          "stock": 500
+        },
+        {
+          "name": "masudaK",
+          "post": 1,
+          "stock": 10
+        },
+        {
+          "name": "Layzie",
+          "post": 14,
+          "stock": 334
+        },
+        {
+          "name": "hachi_eiji",
+          "post": 14,
+          "stock": 64
+        },
+        {
+          "name": "wataru420",
+          "post": 11,
+          "stock": 122
+        },
+        {
+          "name": "matsukaz",
+          "post": 4,
+          "stock": 12
+        },
+        {
+          "name": "koko1000ban",
+          "post": 1,
+          "stock": 0
+        },
+        {
+          "name": "y-icchi",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "horimislime",
+          "post": 23,
+          "stock": 846
+        },
+        {
+          "name": "ku_suke",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "1000ch",
+          "post": 9,
+          "stock": 63
+        },
+        {
+          "name": "takeharu",
+          "post": 14,
+          "stock": 2097
+        },
+        {
+          "name": "rinunu@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "79yuuki",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "suguru03",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "jnst@github",
+          "post": 3,
+          "stock": 25
+        },
+        {
+          "name": "na_ga",
+          "post": 28,
+          "stock": 54
+        },
+        {
+          "name": "hyperdash@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "michio37gou@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "k-takashima@github",
+          "post": 1,
+          "stock": 3
+        },
+        {
+          "name": "sbjib",
+          "post": 4,
+          "stock": 17
+        },
+        {
+          "name": "fkei@github",
+          "post": 1,
+          "stock": 2
+        },
+        {
+          "name": "ca-masai@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ta9mi@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hiloki@github",
+          "post": 3,
+          "stock": 46
+        },
+        {
+          "name": "kaz2ngt",
+          "post": 3,
+          "stock": 68
+        },
+        {
+          "name": "takuya152005@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ton-katsu",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社タグバンガーズ",
+      "page": "http://qiita.com/organizations/tagbangers",
+      "members": [
+        {
+          "name": "bourbonizable",
+          "post": 15,
+          "stock": 44
+        },
+        {
+          "name": "ogatakex@github",
+          "post": 10,
+          "stock": 34
+        },
+        {
+          "name": "sey0gino@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "criemsonn",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "shimauchi55",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "KenichiOkumura@github",
+          "post": 1,
+          "stock": 28
+        },
+        {
+          "name": "92lab@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "matsuihiroki",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "Goodpatch",
+      "page": "http://qiita.com/organizations/goodpatch",
+      "members": [
+        {
+          "name": "tsuchinao83",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "roothybrid7",
+          "post": 31,
+          "stock": 447
+        },
+        {
+          "name": "migi",
+          "post": 1,
+          "stock": 8
+        },
+        {
+          "name": "sucoshi@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "poyosi",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kuniorock",
+          "post": 30,
+          "stock": 282
+        },
+        {
+          "name": "note109",
+          "post": 15,
+          "stock": 68
+        },
+        {
+          "name": "yoshikikoji",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社grooves",
+      "page": "http://qiita.com/organizations/grooves",
+      "members": [
+        {
+          "name": "tbaba",
+          "post": 21,
+          "stock": 876
+        },
+        {
+          "name": "ken_c_lo",
+          "post": 7,
+          "stock": 1551
+        },
+        {
+          "name": "oukayuka",
+          "post": 3,
+          "stock": 8
+        },
+        {
+          "name": "idesaku",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "natsumis",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yachibit",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "sinsoku",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "Kii株式会社",
+      "page": "http://qiita.com/organizations/kii",
+      "members": [
+        {
+          "name": "FGtatsuro",
+          "post": 36,
+          "stock": 227
+        },
+        {
+          "name": "ssmi",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "makoto-iguchi",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "satoshikumano",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "taro-m",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "fkmhrk",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ochtea",
+          "post": 1,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "name": "面白法人カヤック HTMLファイ部",
+      "page": "http://qiita.com/organizations/kayac",
+      "members": [
+        {
+          "name": "edo_m18",
+          "post": 210,
+          "stock": 3021
+        },
+        {
+          "name": "butchi_y",
+          "post": 12,
+          "stock": 60
+        },
+        {
+          "name": "calmbooks",
+          "post": 12,
+          "stock": 286
+        },
+        {
+          "name": "seiyavw",
+          "post": 1,
+          "stock": 16
+        },
+        {
+          "name": "yuya",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "fnobi",
+          "post": 56,
+          "stock": 971
+        },
+        {
+          "name": "ki_230",
+          "post": 6,
+          "stock": 35
+        },
+        {
+          "name": "rtshaaaa",
+          "post": 8,
+          "stock": 70
+        },
+        {
+          "name": "unachang113",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "nenjiru",
+          "post": 20,
+          "stock": 151
+        },
+        {
+          "name": "li-cijun",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "gonshi_com",
+          "post": 32,
+          "stock": 189
+        }
+      ]
+    },
+    {
+      "name": "株式会社アイ・エム・ジェイ TSUKURITE",
+      "page": "http://qiita.com/organizations/imj",
+      "members": [
+        {
+          "name": "sasaplus1",
+          "post": 80,
+          "stock": 522
+        },
+        {
+          "name": "mi73",
+          "post": 2,
+          "stock": 30
+        },
+        {
+          "name": "kzhrk",
+          "post": 22,
+          "stock": 138
+        },
+        {
+          "name": "svjunic",
+          "post": 6,
+          "stock": 84
+        },
+        {
+          "name": "mamoida",
+          "post": 21,
+          "stock": 83
+        },
+        {
+          "name": "HieroglypH",
+          "post": 11,
+          "stock": 123
+        },
+        {
+          "name": "knockknock-jp",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社Ednity",
+      "page": "http://qiita.com/organizations/ednity",
+      "members": [
+        {
+          "name": "Kenryu0810",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yu1ch1",
+          "post": 28,
+          "stock": 164
+        },
+        {
+          "name": "Motokiy@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ta9to",
+          "post": 41,
+          "stock": 695
+        },
+        {
+          "name": "akirang10",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hidek84",
+          "post": 1,
+          "stock": 59
+        },
+        {
+          "name": "RyoIkarashi",
+          "post": 1,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "name": "グリー株式会社",
+      "page": "http://qiita.com/organizations/gree",
+      "members": [
+        {
+          "name": "takc923",
+          "post": 68,
+          "stock": 903
+        },
+        {
+          "name": "takano32",
+          "post": 2,
+          "stock": 32
+        },
+        {
+          "name": "yayugu",
+          "post": 2,
+          "stock": 15
+        },
+        {
+          "name": "nerocrux",
+          "post": 5,
+          "stock": 15
+        },
+        {
+          "name": "haruna-nishiwaki",
+          "post": 6,
+          "stock": 15
+        },
+        {
+          "name": "pandamachine715",
+          "post": 3,
+          "stock": 11
+        },
+        {
+          "name": "M_Ishikawa",
+          "post": 2,
+          "stock": 4
+        },
+        {
+          "name": "ksk_kbys",
+          "post": 3,
+          "stock": 39
+        },
+        {
+          "name": "tkyk_jp",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kamatari",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "g-1",
+          "post": 13,
+          "stock": 88
+        },
+        {
+          "name": "brandonwoo",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yagihiro",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "watilde",
+          "post": 18,
+          "stock": 180
+        },
+        {
+          "name": "foostan",
+          "post": 6,
+          "stock": 144
+        },
+        {
+          "name": "tatsu-yam",
+          "post": 2,
+          "stock": 47
+        },
+        {
+          "name": "gree_tech",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "takish",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Takuya",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "koidy",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Zunonia",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "treby",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Barbayar",
+          "post": 2,
+          "stock": 1
+        },
+        {
+          "name": "cezheng",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kanatatsuki",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "leung_shih",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kousakakeiichi",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "fujimoto",
+          "post": 1,
+          "stock": 26
+        }
+      ]
+    },
+    {
+      "name": "Retty株式会社",
+      "page": "http://qiita.com/organizations/retty",
+      "members": [
+        {
+          "name": "uchitomo",
+          "post": 51,
+          "stock": 127
+        },
+        {
+          "name": "natsukate",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "k4200@github",
+          "post": 3,
+          "stock": 10
+        },
+        {
+          "name": "mkkproject",
+          "post": 11,
+          "stock": 21
+        },
+        {
+          "name": "takeoka@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "umesho1",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "masadooon",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "saku",
+          "post": 11,
+          "stock": 139
+        },
+        {
+          "name": "tashinami",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "dmurasaki",
+          "post": 1,
+          "stock": 129
+        }
+      ]
+    },
+    {
+      "name": "バスキュール",
+      "page": "http://qiita.com/organizations/bascule",
+      "members": [
+        {
+          "name": "katapad",
+          "post": 29,
+          "stock": 1162
+        },
+        {
+          "name": "torufurukawa",
+          "post": 3,
+          "stock": 44
+        },
+        {
+          "name": "sakusan393",
+          "post": 1,
+          "stock": 3
+        },
+        {
+          "name": "toritori0318",
+          "post": 5,
+          "stock": 645
+        },
+        {
+          "name": "E_dash",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "seyself",
+          "post": 15,
+          "stock": 66
+        },
+        {
+          "name": "_nabe",
+          "post": 3,
+          "stock": 2
+        },
+        {
+          "name": "naoiwata",
+          "post": 29,
+          "stock": 380
+        },
+        {
+          "name": "iganoneko",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社ミクシィ",
+      "page": "http://qiita.com/organizations/mixi",
+      "members": [
+        {
+          "name": "nifuramu",
+          "post": 2,
+          "stock": 16
+        },
+        {
+          "name": "hdtkkj",
+          "post": 6,
+          "stock": 15
+        },
+        {
+          "name": "ainame",
+          "post": 16,
+          "stock": 271
+        },
+        {
+          "name": "tacke_jp",
+          "post": 5,
+          "stock": 177
+        },
+        {
+          "name": "kodam",
+          "post": 16,
+          "stock": 314
+        },
+        {
+          "name": "lapis25",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yuya_presto",
+          "post": 15,
+          "stock": 1300
+        },
+        {
+          "name": "Kuniwak",
+          "post": 2,
+          "stock": 153
+        },
+        {
+          "name": "bilyakudan",
+          "post": 12,
+          "stock": 126
+        },
+        {
+          "name": "matsutakegohan1@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "k_kinukawa",
+          "post": 20,
+          "stock": 783
+        },
+        {
+          "name": "ritou",
+          "post": 7,
+          "stock": 39
+        },
+        {
+          "name": "Amothic",
+          "post": 2,
+          "stock": 5
+        },
+        {
+          "name": "tnj",
+          "post": 3,
+          "stock": 567
+        },
+        {
+          "name": "ktsujichan",
+          "post": 10,
+          "stock": 168
+        },
+        {
+          "name": "takaya1992",
+          "post": 4,
+          "stock": 21
+        },
+        {
+          "name": "ginrou@github",
+          "post": 5,
+          "stock": 42
+        },
+        {
+          "name": "junsumida",
+          "post": 5,
+          "stock": 22
+        },
+        {
+          "name": "Sangen",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "luckypool",
+          "post": 11,
+          "stock": 705
+        },
+        {
+          "name": "anoworl",
+          "post": 7,
+          "stock": 326
+        },
+        {
+          "name": "ishikawa@github",
+          "post": 4,
+          "stock": 42
+        },
+        {
+          "name": "takimo@github",
+          "post": 3,
+          "stock": 106
+        },
+        {
+          "name": "pm11",
+          "post": 1,
+          "stock": 32
+        },
+        {
+          "name": "yoan",
+          "post": 2,
+          "stock": 25
+        },
+        {
+          "name": "isaoshimizu",
+          "post": 22,
+          "stock": 380
+        },
+        {
+          "name": "watt1006",
+          "post": 4,
+          "stock": 40
+        },
+        {
+          "name": "radioboo",
+          "post": 4,
+          "stock": 52
+        },
+        {
+          "name": "hidey",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "xoxis",
+          "post": 1,
+          "stock": 14
+        },
+        {
+          "name": "hirokidaichi",
+          "post": 24,
+          "stock": 10779
+        },
+        {
+          "name": "chenjun835",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kojikita",
+          "post": 1,
+          "stock": 32
+        },
+        {
+          "name": "shirochan",
+          "post": 4,
+          "stock": 43
+        },
+        {
+          "name": "keito5656",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "masartz",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "goccy",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "suino",
+          "post": 1,
+          "stock": 614
+        },
+        {
+          "name": "chipple",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "punchdrunker",
+          "post": 2,
+          "stock": 16
+        },
+        {
+          "name": "watarin",
+          "post": 11,
+          "stock": 69
+        },
+        {
+          "name": "yoshikazusawa",
+          "post": 10,
+          "stock": 435
+        },
+        {
+          "name": "kkakizaki",
+          "post": 2,
+          "stock": 39
+        },
+        {
+          "name": "mrmt",
+          "post": 2,
+          "stock": 7
+        },
+        {
+          "name": "Tazake",
+          "post": 2,
+          "stock": 77
+        },
+        {
+          "name": "kikuchy",
+          "post": 10,
+          "stock": 150
+        },
+        {
+          "name": "rokupima",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社トップゲート",
+      "page": "http://qiita.com/organizations/topgate",
+      "members": [
+        {
+          "name": "shin1ogawa",
+          "post": 4,
+          "stock": 11
+        },
+        {
+          "name": "vvakame",
+          "post": 14,
+          "stock": 2126
+        },
+        {
+          "name": "sinmetal",
+          "post": 13,
+          "stock": 325
+        },
+        {
+          "name": "eaglesakura",
+          "post": 1,
+          "stock": 173
+        },
+        {
+          "name": "grapswiz",
+          "post": 13,
+          "stock": 1819
+        },
+        {
+          "name": "ushi3_jp",
+          "post": 1,
+          "stock": 27
+        },
+        {
+          "name": "yukinasu",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kazunorisasaki",
+          "post": 3,
+          "stock": 13
+        }
+      ]
+    },
+    {
+      "name": "ピクシブ株式会社",
+      "page": "http://qiita.com/organizations/pixiv",
+      "members": [
+        {
+          "name": "unagisyan",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "norio",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Tadaki",
+          "post": 7,
+          "stock": 21
+        },
+        {
+          "name": "yksk",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "tototoshi",
+          "post": 10,
+          "stock": 75
+        },
+        {
+          "name": "tadsan",
+          "post": 51,
+          "stock": 1555
+        },
+        {
+          "name": "harukasan",
+          "post": 39,
+          "stock": 1611
+        },
+        {
+          "name": "bash0C7",
+          "post": 8,
+          "stock": 88
+        },
+        {
+          "name": "alpaca_taichou",
+          "post": 10,
+          "stock": 1375
+        },
+        {
+          "name": "shobyshoby",
+          "post": 11,
+          "stock": 130
+        },
+        {
+          "name": "geta6",
+          "post": 4,
+          "stock": 173
+        },
+        {
+          "name": "catatsuy",
+          "post": 55,
+          "stock": 1273
+        },
+        {
+          "name": "consomme72",
+          "post": 2,
+          "stock": 22
+        },
+        {
+          "name": "itochan",
+          "post": 11,
+          "stock": 71
+        },
+        {
+          "name": "walf443",
+          "post": 14,
+          "stock": 68
+        },
+        {
+          "name": "uchienneo",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "pixivinc",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "forty_threee",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "chocomelon",
+          "post": 6,
+          "stock": 48
+        },
+        {
+          "name": "saboyutaka",
+          "post": 5,
+          "stock": 317
+        },
+        {
+          "name": "nanikaka",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社インフィニットループ",
+      "page": "http://qiita.com/organizations/infiniteloop",
+      "members": [
+        {
+          "name": "ww24",
+          "post": 6,
+          "stock": 38
+        },
+        {
+          "name": "raa0121",
+          "post": 2,
+          "stock": 6
+        },
+        {
+          "name": "miio@github",
+          "post": 2,
+          "stock": 128
+        },
+        {
+          "name": "tekkoc",
+          "post": 28,
+          "stock": 733
+        },
+        {
+          "name": "l3msh0@github",
+          "post": 7,
+          "stock": 199
+        },
+        {
+          "name": "makies",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ketaiorg@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "wanashi",
+          "post": 6,
+          "stock": 27
+        },
+        {
+          "name": "maosanhioro",
+          "post": 2,
+          "stock": 66
+        },
+        {
+          "name": "letsspeak",
+          "post": 9,
+          "stock": 225
+        }
+      ]
+    },
+    {
+      "name": "株式会社BFT",
+      "page": "http://qiita.com/organizations/bft",
+      "members": [
+        {
+          "name": "soundTricker",
+          "post": 54,
+          "stock": 978
+        },
+        {
+          "name": "yamato373",
+          "post": 1,
+          "stock": 6
+        },
+        {
+          "name": "satrov",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kou_bacchus",
+          "post": 10,
+          "stock": 96
+        },
+        {
+          "name": "eyesonly",
+          "post": 4,
+          "stock": 20
+        },
+        {
+          "name": "m-sakano",
+          "post": 1,
+          "stock": 12
+        },
+        {
+          "name": "Dace_K",
+          "post": 9,
+          "stock": 35
+        },
+        {
+          "name": "iron-breaker",
+          "post": 11,
+          "stock": 141
+        },
+        {
+          "name": "HideakiTomioka",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "iggy",
+          "post": 1,
+          "stock": 0
+        },
+        {
+          "name": "makoChan",
+          "post": 1,
+          "stock": 2
+        },
+        {
+          "name": "kiiro_kimidori",
+          "post": 3,
+          "stock": 1
+        },
+        {
+          "name": "y-fujita",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "strttlr",
+          "post": 2,
+          "stock": 8
+        },
+        {
+          "name": "m-hagimori",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Fuka-Nao",
+          "post": 1,
+          "stock": 5
+        },
+        {
+          "name": "Ranmaro",
+          "post": 2,
+          "stock": 6
+        },
+        {
+          "name": "y-hirata",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kshima",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "apnea",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "namihitoo",
+          "post": 6,
+          "stock": 51
+        },
+        {
+          "name": "Jungle",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "oqi4msyk",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社ピクセルグリッド",
+      "page": "http://qiita.com/organizations/pxgrid",
+      "members": [
+        {
+          "name": "Takazudo",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ykhs",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "saucerjp",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hokaccha",
+          "post": 17,
+          "stock": 236
+        },
+        {
+          "name": "soto3",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "tacamy",
+          "post": 1,
+          "stock": 3
+        },
+        {
+          "name": "nakajmg",
+          "post": 30,
+          "stock": 1208
+        },
+        {
+          "name": "yomotsu",
+          "post": 1,
+          "stock": 4
+        },
+        {
+          "name": "GeckoTang",
+          "post": 1,
+          "stock": 21
+        },
+        {
+          "name": "5509",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kyosuke",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社ネットプライス",
+      "page": "http://qiita.com/organizations/netprice",
+      "members": [
+        {
+          "name": "nao58",
+          "post": 21,
+          "stock": 150
+        },
+        {
+          "name": "ha_g1",
+          "post": 10,
+          "stock": 39
+        },
+        {
+          "name": "tsugi2009",
+          "post": 1,
+          "stock": 5
+        },
+        {
+          "name": "koitatu",
+          "post": 2,
+          "stock": 10
+        },
+        {
+          "name": "xhide3",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kei75",
+          "post": 3,
+          "stock": 17
+        },
+        {
+          "name": "aic0o",
+          "post": 2,
+          "stock": 10
+        },
+        {
+          "name": "goy",
+          "post": 3,
+          "stock": 16
+        },
+        {
+          "name": "mari",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hit",
+          "post": 35,
+          "stock": 298
+        },
+        {
+          "name": "aki07",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "utei",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kotetsu",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kawatak",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "sada",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社ゆめみ",
+      "page": "http://qiita.com/organizations/yumemi",
+      "members": [
+        {
+          "name": "sora0077@github",
+          "post": 11,
+          "stock": 223
+        },
+        {
+          "name": "mokemokechicken",
+          "post": 55,
+          "stock": 903
+        },
+        {
+          "name": "nave-m",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "u-minor",
+          "post": 9,
+          "stock": 87
+        },
+        {
+          "name": "rysk92@github",
+          "post": 15,
+          "stock": 42
+        },
+        {
+          "name": "barista",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "peromasamune",
+          "post": 3,
+          "stock": 67
+        },
+        {
+          "name": "oigus-k",
+          "post": 1,
+          "stock": 4
+        },
+        {
+          "name": "kou",
+          "post": 6,
+          "stock": 136
+        },
+        {
+          "name": "kaoru",
+          "post": 27,
+          "stock": 138
+        },
+        {
+          "name": "hkusu",
+          "post": 91,
+          "stock": 1299
+        },
+        {
+          "name": "raykataoka",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "murapon",
+          "post": 6,
+          "stock": 135
+        },
+        {
+          "name": "Shoesk",
+          "post": 5,
+          "stock": 21
+        },
+        {
+          "name": "taruhachi",
+          "post": 7,
+          "stock": 484
+        },
+        {
+          "name": "intel_yu",
+          "post": 3,
+          "stock": 64
+        },
+        {
+          "name": "aktuehr",
+          "post": 1,
+          "stock": 8
+        },
+        {
+          "name": "nagayang",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kazumax55",
+          "post": 1,
+          "stock": 3
+        },
+        {
+          "name": "k_minamihara",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "amoO_O",
+          "post": 25,
+          "stock": 167
+        },
+        {
+          "name": "king_yuka",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ktmr",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kimmyjapan",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Hisatomi",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hironaito",
+          "post": 1,
+          "stock": 9
+        },
+        {
+          "name": "kagami",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "princeNing",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "TakayukiKobayashi",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社イーツー・インフォ",
+      "page": "http://qiita.com/organizations/e2info",
+      "members": [
+        {
+          "name": "kaneko_tomo",
+          "post": 9,
+          "stock": 28
+        },
+        {
+          "name": "e2_natsume",
+          "post": 3,
+          "stock": 8
+        },
+        {
+          "name": "saorimder",
+          "post": 1,
+          "stock": 0
+        },
+        {
+          "name": "kuwahara",
+          "post": 1,
+          "stock": 3
+        },
+        {
+          "name": "atsike",
+          "post": 3,
+          "stock": 3
+        },
+        {
+          "name": "e2_fujita",
+          "post": 3,
+          "stock": 18
+        },
+        {
+          "name": "e2_adachi",
+          "post": 2,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "name": "株式会社ACCESS",
+      "page": "http://qiita.com/organizations/access",
+      "members": [
+        {
+          "name": "ryotarolab",
+          "post": 3,
+          "stock": 30
+        },
+        {
+          "name": "snsk",
+          "post": 3,
+          "stock": 7
+        },
+        {
+          "name": "sassy_watson",
+          "post": 44,
+          "stock": 268
+        },
+        {
+          "name": "hiromisawada",
+          "post": 1,
+          "stock": 7
+        },
+        {
+          "name": "aTaroAsari",
+          "post": 2,
+          "stock": 7
+        },
+        {
+          "name": "kumabook",
+          "post": 4,
+          "stock": 23
+        },
+        {
+          "name": "aMasashiOgawa",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kasaharu",
+          "post": 31,
+          "stock": 739
+        },
+        {
+          "name": "gm_kou",
+          "post": 12,
+          "stock": 101
+        },
+        {
+          "name": "aNobuyukiNakamura",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "aKunihiroIshiguro",
+          "post": 4,
+          "stock": 287
+        },
+        {
+          "name": "naohikowatanabe",
+          "post": 6,
+          "stock": 47
+        },
+        {
+          "name": "pankona",
+          "post": 3,
+          "stock": 18
+        },
+        {
+          "name": "aSeijiUrushihara",
+          "post": 2,
+          "stock": 27
+        },
+        {
+          "name": "aKenjiKato",
+          "post": 36,
+          "stock": 508
+        },
+        {
+          "name": "shotasakamoto",
+          "post": 4,
+          "stock": 6
+        },
+        {
+          "name": "mnb",
+          "post": 9,
+          "stock": 36
+        },
+        {
+          "name": "magicant",
+          "post": 16,
+          "stock": 2164
+        },
+        {
+          "name": "ikeyasu",
+          "post": 2,
+          "stock": 51
+        },
+        {
+          "name": "ynakase",
+          "post": 2,
+          "stock": 55
+        },
+        {
+          "name": "aMasatoYui",
+          "post": 4,
+          "stock": 58
+        },
+        {
+          "name": "aKentaKoyama",
+          "post": 3,
+          "stock": 98
+        },
+        {
+          "name": "u_one",
+          "post": 7,
+          "stock": 48
+        },
+        {
+          "name": "skirino",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "aTakayukiMorita",
+          "post": 2,
+          "stock": 12
+        },
+        {
+          "name": "TakayukiToyoda",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "DaisukeKondo",
+          "post": 3,
+          "stock": 39
+        },
+        {
+          "name": "aShinjiHoshino",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "aTakuyaKaneko",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "KotaroKodama",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "FumihiroSaito",
+          "post": 1,
+          "stock": 6
+        },
+        {
+          "name": "asukamirai",
+          "post": 4,
+          "stock": 55
+        },
+        {
+          "name": "akegashi",
+          "post": 1,
+          "stock": 2
+        },
+        {
+          "name": "aRyoKuroda",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "aKyoichiroIizuka",
+          "post": 2,
+          "stock": 18
+        },
+        {
+          "name": "aTadatoshiTokutake",
+          "post": 2,
+          "stock": 19
+        },
+        {
+          "name": "aSoichiroIsobe",
+          "post": 1,
+          "stock": 4
+        },
+        {
+          "name": "aRyoKajiwara",
+          "post": 12,
+          "stock": 532
+        },
+        {
+          "name": "aDaisukeSakyo",
+          "post": 2,
+          "stock": 11
+        },
+        {
+          "name": "aDaisukeFuji",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ssingu",
+          "post": 1,
+          "stock": 7
+        },
+        {
+          "name": "aMasashiUmeda",
+          "post": 4,
+          "stock": 20
+        },
+        {
+          "name": "aKatsuhiroMihara",
+          "post": 3,
+          "stock": 42
+        },
+        {
+          "name": "aTomoyoshiToyoda",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "Studio Ousia",
+      "page": "http://qiita.com/organizations/ousia",
+      "members": [
+        {
+          "name": "naoya_t",
+          "post": 18,
+          "stock": 170
+        },
+        {
+          "name": "ikuyamada",
+          "post": 12,
+          "stock": 141
+        },
+        {
+          "name": "kojiyamada@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ungridisbit@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "tomotaka_ito",
+          "post": 12,
+          "stock": 67
+        },
+        {
+          "name": "ayae",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "mizki",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "tomoyanp",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "shinny",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "usajpn",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社nanapi",
+      "page": "http://qiita.com/organizations/nanapi",
+      "members": [
+        {
+          "name": "violetyk",
+          "post": 4,
+          "stock": 43
+        },
+        {
+          "name": "inureo",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "wadap",
+          "post": 1,
+          "stock": 9
+        },
+        {
+          "name": "kensuu",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kozyty@github",
+          "post": 4,
+          "stock": 24
+        },
+        {
+          "name": "akiyan",
+          "post": 3,
+          "stock": 6
+        },
+        {
+          "name": "hori@github",
+          "post": 11,
+          "stock": 41
+        },
+        {
+          "name": "mura24",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Vexus2",
+          "post": 34,
+          "stock": 496
+        },
+        {
+          "name": "daisuke_kubota",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "CHINNEN_no3",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ogiyk",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yunico-jp",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "uetani",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社DTS",
+      "page": "http://qiita.com/organizations/dts",
+      "members": [
+        {
+          "name": "garbagetown",
+          "post": 19,
+          "stock": 223
+        },
+        {
+          "name": "isaac-otao",
+          "post": 3,
+          "stock": 49
+        },
+        {
+          "name": "ynakayama",
+          "post": 128,
+          "stock": 1632
+        },
+        {
+          "name": "maruyam-a",
+          "post": 15,
+          "stock": 170
+        },
+        {
+          "name": "n-shinkai",
+          "post": 4,
+          "stock": 23
+        },
+        {
+          "name": "u-chida",
+          "post": 6,
+          "stock": 72
+        },
+        {
+          "name": "ShingoOikawa",
+          "post": 13,
+          "stock": 52
+        },
+        {
+          "name": "kumasaka",
+          "post": 4,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社オーガランド",
+      "page": "http://qiita.com/organizations/ogaland",
+      "members": [
+        {
+          "name": "knt45",
+          "post": 91,
+          "stock": 934
+        },
+        {
+          "name": "HamaTech",
+          "post": 13,
+          "stock": 138
+        }
+      ]
+    },
+    {
+      "name": "株式会社 時雨堂",
+      "page": "http://qiita.com/organizations/shiguredo",
+      "members": [
+        {
+          "name": "voluntas",
+          "post": 52,
+          "stock": 1154
+        },
+        {
+          "name": "seizans",
+          "post": 15,
+          "stock": 380
+        },
+        {
+          "name": "yuitowest",
+          "post": 4,
+          "stock": 63
+        },
+        {
+          "name": "Hexa",
+          "post": 9,
+          "stock": 101
+        },
+        {
+          "name": "szktty",
+          "post": 6,
+          "stock": 36
+        }
+      ]
+    },
+    {
+      "name": "株式会社ハウテレビジョン",
+      "page": "http://qiita.com/organizations/howtelevision",
+      "members": [
+        {
+          "name": "ottie27",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "artifactsauce",
+          "post": 7,
+          "stock": 58
+        },
+        {
+          "name": "Kular@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "who_you_me",
+          "post": 13,
+          "stock": 219
+        },
+        {
+          "name": "xxthermidorxx",
+          "post": 4,
+          "stock": 17
+        },
+        {
+          "name": "yoshiyuki_onishi",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yasuyuki_tsuda",
+          "post": 1,
+          "stock": 3
+        },
+        {
+          "name": "ippeif",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "Fringe81株式会社",
+      "page": "http://qiita.com/organizations/fringe81",
+      "members": [
+        {
+          "name": "mtoyoshi",
+          "post": 19,
+          "stock": 141
+        },
+        {
+          "name": "yyuu5",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "f81@github",
+          "post": 34,
+          "stock": 415
+        },
+        {
+          "name": "kaz3284",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "asmasa",
+          "post": 5,
+          "stock": 18
+        },
+        {
+          "name": "rintaron",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "setzz",
+          "post": 26,
+          "stock": 323
+        },
+        {
+          "name": "natsuisexy",
+          "post": 1,
+          "stock": 3
+        },
+        {
+          "name": "msano",
+          "post": 13,
+          "stock": 81
+        }
+      ]
+    },
+    {
+      "name": "株式会社 gumi",
+      "page": "http://qiita.com/organizations/gumi",
+      "members": [
+        {
+          "name": "Takezoh",
+          "post": 2,
+          "stock": 10
+        },
+        {
+          "name": "maaaato",
+          "post": 3,
+          "stock": 20
+        },
+        {
+          "name": "CkReal",
+          "post": 3,
+          "stock": 60
+        },
+        {
+          "name": "yamionp",
+          "post": 2,
+          "stock": 11
+        },
+        {
+          "name": "itkr",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "isoparametric",
+          "post": 4,
+          "stock": 20
+        },
+        {
+          "name": "fujimisakari",
+          "post": 7,
+          "stock": 66
+        },
+        {
+          "name": "cooldaemon",
+          "post": 4,
+          "stock": 35
+        },
+        {
+          "name": "tadokoro",
+          "post": 8,
+          "stock": 50
+        },
+        {
+          "name": "toshitaka_kataoka",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "peposso",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社Abby",
+      "page": "http://qiita.com/organizations/abby",
+      "members": [
+        {
+          "name": "mopemope",
+          "post": 8,
+          "stock": 1785
+        },
+        {
+          "name": "yone098@github",
+          "post": 2,
+          "stock": 529
+        },
+        {
+          "name": "garsue",
+          "post": 1,
+          "stock": 7
+        },
+        {
+          "name": "shinsan68k",
+          "post": 3,
+          "stock": 38
+        },
+        {
+          "name": "matcha014",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "エムスリー株式会社",
+      "page": "http://qiita.com/organizations/m3dev",
+      "members": [
+        {
+          "name": "shuhei",
+          "post": 154,
+          "stock": 1132
+        },
+        {
+          "name": "yteraoka",
+          "post": 22,
+          "stock": 329
+        },
+        {
+          "name": "morizyun",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ngsw_taro",
+          "post": 3,
+          "stock": 63
+        },
+        {
+          "name": "ma2ge",
+          "post": 17,
+          "stock": 126
+        },
+        {
+          "name": "seratch@github",
+          "post": 16,
+          "stock": 105
+        },
+        {
+          "name": "youcune",
+          "post": 32,
+          "stock": 678
+        },
+        {
+          "name": "cb372",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Apuruny",
+          "post": 4,
+          "stock": 16
+        },
+        {
+          "name": "btakashi",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社Diverse",
+      "page": "http://qiita.com/organizations/diverse",
+      "members": [
+        {
+          "name": "gggami",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "nog",
+          "post": 5,
+          "stock": 319
+        },
+        {
+          "name": "mura416",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "woremacx",
+          "post": 5,
+          "stock": 17
+        },
+        {
+          "name": "anoworl",
+          "post": 7,
+          "stock": 326
+        },
+        {
+          "name": "amanoiverse",
+          "post": 13,
+          "stock": 46
+        },
+        {
+          "name": "python_spameggs",
+          "post": 6,
+          "stock": 37
+        },
+        {
+          "name": "kentoohira",
+          "post": 3,
+          "stock": 12
+        },
+        {
+          "name": "kikuchy",
+          "post": 10,
+          "stock": 150
+        },
+        {
+          "name": "kanamin",
+          "post": 1,
+          "stock": 4
+        },
+        {
+          "name": "abui",
+          "post": 1,
+          "stock": 8
+        },
+        {
+          "name": "melonsoda",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kumakkolli",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Nakaz",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "funappy",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社フィードフォース",
+      "page": "http://qiita.com/organizations/feedforce",
+      "members": [
+        {
+          "name": "sakuro",
+          "post": 1,
+          "stock": 47
+        },
+        {
+          "name": "masutaka",
+          "post": 2,
+          "stock": 1
+        },
+        {
+          "name": "kasei-san",
+          "post": 32,
+          "stock": 390
+        },
+        {
+          "name": "hapicky",
+          "post": 2,
+          "stock": 2
+        },
+        {
+          "name": "tmd45",
+          "post": 6,
+          "stock": 25
+        },
+        {
+          "name": "Lorentzca",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hoshino",
+          "post": 4,
+          "stock": 16
+        },
+        {
+          "name": "kano-e",
+          "post": 3,
+          "stock": 32
+        },
+        {
+          "name": "a-know",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "critical-alert",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "meihong",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "TasukuNakano",
+          "post": 4,
+          "stock": 26
+        },
+        {
+          "name": "mgi166",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "ピーシーフェーズ株式会社",
+      "page": "http://qiita.com/organizations/pcp",
+      "members": [
+        {
+          "name": "pcpDev",
+          "post": 13,
+          "stock": 81
+        },
+        {
+          "name": "k_keii",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ma_hori",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ta_hirai",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "na_kudo",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "matsuzono",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ke_sakazaki",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "y_arakawa",
+          "post": 2,
+          "stock": 10
+        },
+        {
+          "name": "t_kaifuku",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kekubo",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kakimaze",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "y_ono",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hminagawa",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "m_fujino",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "m_suzuki",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kitsugim",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "n_sudo",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ch_hori",
+          "post": 2,
+          "stock": 17
+        },
+        {
+          "name": "hrk98",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ymzk",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "te_yoshida",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yanagida",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "k_kawasaki",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "pcphashimoto",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "m_morisaki",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "re_nakayama",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "k_kadoki",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "pcp_bigtree",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yo_oono",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yk96",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ode",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yu_nozaki",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "mi_kawashima",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "m_tsuchino",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "t_kitahara",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hi_kajiwara",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社コムニコ",
+      "page": "http://qiita.com/organizations/comnico",
+      "members": [
+        {
+          "name": "masarufuruya",
+          "post": 11,
+          "stock": 113
+        },
+        {
+          "name": "Sugima",
+          "post": 1,
+          "stock": 257
+        },
+        {
+          "name": "yujiod",
+          "post": 4,
+          "stock": 407
+        },
+        {
+          "name": "kusaka1",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "bibi4c",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "s_noguchi",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "tougasa",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "k_017",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社 ITAGE",
+      "page": "http://qiita.com/organizations/itage",
+      "members": [
+        {
+          "name": "koara-local",
+          "post": 6,
+          "stock": 54
+        },
+        {
+          "name": "maueki",
+          "post": 17,
+          "stock": 205
+        },
+        {
+          "name": "tushijima",
+          "post": 2,
+          "stock": 10
+        },
+        {
+          "name": "ma-oshita",
+          "post": 7,
+          "stock": 33
+        },
+        {
+          "name": "t7u",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "y-tsutsu",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ace_yossy",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kanou_yoshiki",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kajio",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Yosimitsu",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "tkijima",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "STotsuka",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社ロコンド",
+      "page": "http://qiita.com/organizations/locondo",
+      "members": [
+        {
+          "name": "thrakt",
+          "post": 9,
+          "stock": 43
+        },
+        {
+          "name": "hakuro",
+          "post": 10,
+          "stock": 145
+        },
+        {
+          "name": "tsuka140401",
+          "post": 2,
+          "stock": 10
+        },
+        {
+          "name": "nenokido2000",
+          "post": 6,
+          "stock": 17
+        },
+        {
+          "name": "yosukes",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社オープンストリーム",
+      "page": "http://qiita.com/organizations/opst",
+      "members": [
+        {
+          "name": "Katsumi",
+          "post": 3,
+          "stock": 285
+        },
+        {
+          "name": "derui@github",
+          "post": 6,
+          "stock": 165
+        },
+        {
+          "name": "kimura_m_29",
+          "post": 1,
+          "stock": 5
+        },
+        {
+          "name": "miyatah",
+          "post": 4,
+          "stock": 25
+        },
+        {
+          "name": "morozumi_h",
+          "post": 15,
+          "stock": 178
+        },
+        {
+          "name": "miyatay",
+          "post": 5,
+          "stock": 42
+        },
+        {
+          "name": "akidn8",
+          "post": 1,
+          "stock": 12
+        },
+        {
+          "name": "okuda_h",
+          "post": 9,
+          "stock": 36
+        },
+        {
+          "name": "hterada",
+          "post": 8,
+          "stock": 39
+        },
+        {
+          "name": "2KB",
+          "post": 8,
+          "stock": 230
+        },
+        {
+          "name": "kokumura",
+          "post": 3,
+          "stock": 24
+        },
+        {
+          "name": "ayu_kane",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hirame_23",
+          "post": 7,
+          "stock": 41
+        },
+        {
+          "name": "tonoKrkr",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "taka_s",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yangiYA",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "opstkura",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社ネクスト",
+      "page": "http://qiita.com/organizations/nextgroup",
+      "members": [
+        {
+          "name": "ryo0301",
+          "post": 8,
+          "stock": 173
+        },
+        {
+          "name": "fujipara",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "mini_house",
+          "post": 1,
+          "stock": 55
+        },
+        {
+          "name": "szk3",
+          "post": 3,
+          "stock": 11
+        },
+        {
+          "name": "nabewata07",
+          "post": 7,
+          "stock": 49
+        },
+        {
+          "name": "simeji",
+          "post": 1,
+          "stock": 29
+        },
+        {
+          "name": "Sam",
+          "post": 11,
+          "stock": 357
+        },
+        {
+          "name": "kazuktym",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "machicom",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "forty4_jp",
+          "post": 5,
+          "stock": 31
+        },
+        {
+          "name": "ssqiita",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "mo_to_44",
+          "post": 11,
+          "stock": 235
+        },
+        {
+          "name": "telx2bz",
+          "post": 1,
+          "stock": 6
+        },
+        {
+          "name": "ikeisuke",
+          "post": 3,
+          "stock": 17
+        },
+        {
+          "name": "zom",
+          "post": 4,
+          "stock": 27
+        },
+        {
+          "name": "oubakiou",
+          "post": 3,
+          "stock": 38
+        }
+      ]
+    },
+    {
+      "name": "freee",
+      "page": "http://qiita.com/organizations/freee",
+      "members": [
+        {
+          "name": "suginoy",
+          "post": 21,
+          "stock": 47
+        },
+        {
+          "name": "mdaisuke",
+          "post": 40,
+          "stock": 54
+        },
+        {
+          "name": "codethefuture",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "nanjakkun",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yokoji",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "futoase",
+          "post": 77,
+          "stock": 2069
+        },
+        {
+          "name": "kakkunpakkun",
+          "post": 17,
+          "stock": 656
+        },
+        {
+          "name": "yonekawa",
+          "post": 1,
+          "stock": 16
+        },
+        {
+          "name": "ymrl",
+          "post": 1,
+          "stock": 15
+        },
+        {
+          "name": "yfuka86",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yo_waka",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hiraguri",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "aomegane",
+          "post": 1,
+          "stock": 20
+        },
+        {
+          "name": "kzsmz",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "tam33363",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社 ドワンゴ",
+      "page": "http://qiita.com/organizations/dwango",
+      "members": [
+        {
+          "name": "fukken",
+          "post": 2,
+          "stock": 5
+        },
+        {
+          "name": "masarakki",
+          "post": 2,
+          "stock": 1
+        },
+        {
+          "name": "shoito",
+          "post": 9,
+          "stock": 151
+        },
+        {
+          "name": "meso",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "sifue",
+          "post": 33,
+          "stock": 222
+        },
+        {
+          "name": "erukiti",
+          "post": 14,
+          "stock": 88
+        },
+        {
+          "name": "shimacpyon",
+          "post": 30,
+          "stock": 169
+        },
+        {
+          "name": "koizuka",
+          "post": 3,
+          "stock": 54
+        },
+        {
+          "name": "saiten",
+          "post": 2,
+          "stock": 128
+        },
+        {
+          "name": "xuwei_k",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "deflis",
+          "post": 7,
+          "stock": 56
+        },
+        {
+          "name": "kmizu",
+          "post": 1,
+          "stock": 0
+        },
+        {
+          "name": "mtgto",
+          "post": 2,
+          "stock": 128
+        },
+        {
+          "name": "regtan",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ixixi",
+          "post": 1,
+          "stock": 105
+        },
+        {
+          "name": "chuross",
+          "post": 10,
+          "stock": 226
+        },
+        {
+          "name": "ringo",
+          "post": 12,
+          "stock": 207
+        },
+        {
+          "name": "JAGAxIMO",
+          "post": 5,
+          "stock": 82
+        },
+        {
+          "name": "KOU_CHANG",
+          "post": 3,
+          "stock": 9
+        },
+        {
+          "name": "liquidamber",
+          "post": 5,
+          "stock": 8
+        },
+        {
+          "name": "wilfrem",
+          "post": 4,
+          "stock": 21
+        },
+        {
+          "name": "sile",
+          "post": 6,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "name": "リコーITソリューションズ株式会社",
+      "page": "http://qiita.com/organizations/jrits",
+      "members": [
+        {
+          "name": "sandinist",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "YHayama@github",
+          "post": 1,
+          "stock": 3
+        },
+        {
+          "name": "mechamogera",
+          "post": 73,
+          "stock": 509
+        },
+        {
+          "name": "ogawatti",
+          "post": 39,
+          "stock": 159
+        },
+        {
+          "name": "chinmo@github",
+          "post": 6,
+          "stock": 30
+        },
+        {
+          "name": "dnaka@github",
+          "post": 4,
+          "stock": 11
+        },
+        {
+          "name": "oh_rusty_nail",
+          "post": 65,
+          "stock": 645
+        },
+        {
+          "name": "budougumi0617",
+          "post": 35,
+          "stock": 523
+        },
+        {
+          "name": "kazuqqfp",
+          "post": 15,
+          "stock": 178
+        },
+        {
+          "name": "hilohiro",
+          "post": 2,
+          "stock": 4
+        },
+        {
+          "name": "toshi3221@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kmats@github",
+          "post": 25,
+          "stock": 151
+        },
+        {
+          "name": "typedow@github",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "suzumura-ss@github",
+          "post": 4,
+          "stock": 7
+        },
+        {
+          "name": "arukoh@github",
+          "post": 15,
+          "stock": 89
+        },
+        {
+          "name": "ukiuni@github",
+          "post": 34,
+          "stock": 1042
+        },
+        {
+          "name": "taketomato",
+          "post": 1,
+          "stock": 13
+        },
+        {
+          "name": "nomadmonad",
+          "post": 11,
+          "stock": 117
+        },
+        {
+          "name": "ntth",
+          "post": 1,
+          "stock": 0
+        },
+        {
+          "name": "arai-wa",
+          "post": 10,
+          "stock": 114
+        },
+        {
+          "name": "yhiranoo",
+          "post": 10,
+          "stock": 15
+        },
+        {
+          "name": "uzakoni",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "mtakizawa",
+          "post": 3,
+          "stock": 1
+        },
+        {
+          "name": "shingargle",
+          "post": 1,
+          "stock": 43
+        }
+      ]
+    },
+    {
+      "name": "Lemonade Lab, Inc.",
+      "page": "http://qiita.com/organizations/lemonade",
+      "members": [
+        {
+          "name": "jfcamel",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hirosat",
+          "post": 1,
+          "stock": 4
+        },
+        {
+          "name": "key",
+          "post": 62,
+          "stock": 652
+        },
+        {
+          "name": "maru_cc",
+          "post": 7,
+          "stock": 43
+        },
+        {
+          "name": "akirasek",
+          "post": 3,
+          "stock": 8
+        },
+        {
+          "name": "zkdzegede",
+          "post": 1,
+          "stock": 0
+        },
+        {
+          "name": "fukuchimi",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社ベーシック",
+      "page": "http://qiita.com/organizations/basicinc",
+      "members": [
+        {
+          "name": "kojii",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "zaru",
+          "post": 34,
+          "stock": 396
+        },
+        {
+          "name": "hitomi_",
+          "post": 7,
+          "stock": 40
+        },
+        {
+          "name": "ykyk1218",
+          "post": 9,
+          "stock": 60
+        },
+        {
+          "name": "KawabataLemon",
+          "post": 14,
+          "stock": 114
+        },
+        {
+          "name": "kkyouhei",
+          "post": 18,
+          "stock": 141
+        },
+        {
+          "name": "s-mori",
+          "post": 6,
+          "stock": 31
+        },
+        {
+          "name": "mmusasabi",
+          "post": 14,
+          "stock": 109
+        },
+        {
+          "name": "yamakadoh",
+          "post": 3,
+          "stock": 4
+        },
+        {
+          "name": "skatata",
+          "post": 9,
+          "stock": 183
+        },
+        {
+          "name": "kak1",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "mochizukikotaro",
+          "post": 46,
+          "stock": 371
+        },
+        {
+          "name": "yamasakitomohiro",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Kaki_Shoichi",
+          "post": 3,
+          "stock": 20
+        },
+        {
+          "name": "na1412",
+          "post": 2,
+          "stock": 11
+        },
+        {
+          "name": "taro_sakura",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "MRT.Inc",
+      "page": "http://qiita.com/organizations/medrt",
+      "members": [
+        {
+          "name": "isohi@github",
+          "post": 2,
+          "stock": 5
+        },
+        {
+          "name": "ebonyeye",
+          "post": 1,
+          "stock": 5
+        },
+        {
+          "name": "suuuuzuuuu",
+          "post": 1,
+          "stock": 2
+        },
+        {
+          "name": "satoshi2014",
+          "post": 1,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "name": "株式会社LOUPE",
+      "page": "http://qiita.com/organizations/loupe",
+      "members": [
+        {
+          "name": "sue738",
+          "post": 48,
+          "stock": 680
+        },
+        {
+          "name": "pakiran",
+          "post": 4,
+          "stock": 46
+        },
+        {
+          "name": "mktakuya",
+          "post": 15,
+          "stock": 107
+        },
+        {
+          "name": "other_literacy",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "haradada",
+          "post": 3,
+          "stock": 21
+        },
+        {
+          "name": "ryoheitakada",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "nagatasci",
+          "post": 16,
+          "stock": 120
+        },
+        {
+          "name": "Yoshi66",
+          "post": 14,
+          "stock": 108
+        }
+      ]
+    },
+    {
+      "name": "株式会社ワンパク",
+      "page": "http://qiita.com/organizations/1pac",
+      "members": [
+        {
+          "name": "hnakamur",
+          "post": 162,
+          "stock": 2157
+        },
+        {
+          "name": "yd_niku",
+          "post": 18,
+          "stock": 115
+        },
+        {
+          "name": "yusabana",
+          "post": 15,
+          "stock": 875
+        },
+        {
+          "name": "ariyo13",
+          "post": 1,
+          "stock": 17
+        },
+        {
+          "name": "groove-murashige",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "harunapple",
+          "post": 2,
+          "stock": 10
+        },
+        {
+          "name": "mag4n",
+          "post": 10,
+          "stock": 165
+        },
+        {
+          "name": "yukin",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Kondo",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "アイレット株式会社(cloudpack)",
+      "page": "http://qiita.com/organizations/cloudpack",
+      "members": [
+        {
+          "name": "dz_",
+          "post": 21,
+          "stock": 192
+        },
+        {
+          "name": "f_prg",
+          "post": 12,
+          "stock": 30
+        },
+        {
+          "name": "yoshidashingo",
+          "post": 6,
+          "stock": 472
+        },
+        {
+          "name": "kazgoto",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "inokappa",
+          "post": 155,
+          "stock": 814
+        },
+        {
+          "name": "kazumihirose",
+          "post": 8,
+          "stock": 64
+        },
+        {
+          "name": "memorycraft",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "arai",
+          "post": 1,
+          "stock": 7
+        },
+        {
+          "name": "fnifni",
+          "post": 5,
+          "stock": 30
+        },
+        {
+          "name": "shouhei3",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "SatoHiroyuki",
+          "post": 12,
+          "stock": 42
+        },
+        {
+          "name": "mitzi2funk",
+          "post": 4,
+          "stock": 5
+        },
+        {
+          "name": "Hiroyama-Yutaka",
+          "post": 5,
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "name": "株式会社アトラエ",
+      "page": "http://qiita.com/organizations/atrae",
+      "members": [
+        {
+          "name": "shigekid",
+          "post": 14,
+          "stock": 67
+        },
+        {
+          "name": "okappy",
+          "post": 8,
+          "stock": 591
+        },
+        {
+          "name": "ysk_1031",
+          "post": 29,
+          "stock": 356
+        },
+        {
+          "name": "moriyaman",
+          "post": 30,
+          "stock": 549
+        },
+        {
+          "name": "tallman",
+          "post": 5,
+          "stock": 10
+        },
+        {
+          "name": "masamitsu-konya",
+          "post": 22,
+          "stock": 400
+        },
+        {
+          "name": "kid84",
+          "post": 5,
+          "stock": 34
+        },
+        {
+          "name": "toya",
+          "post": 2,
+          "stock": 4
+        },
+        {
+          "name": "kumi1132",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "seiya1121",
+          "post": 21,
+          "stock": 98
+        }
+      ]
+    },
+    {
+      "name": "株式会社カルテットコミュニケーションズ",
+      "page": "http://qiita.com/organizations/quartetcom",
+      "members": [
+        {
+          "name": "qckanemoto",
+          "post": 15,
+          "stock": 125
+        },
+        {
+          "name": "77web@github",
+          "post": 3,
+          "stock": 37
+        },
+        {
+          "name": "lga0503",
+          "post": 11,
+          "stock": 233
+        }
+      ]
+    },
+    {
+      "name": "Framgia",
+      "page": "http://qiita.com/organizations/framgia",
+      "members": [
+        {
+          "name": "kouyaf77@github",
+          "post": 16,
+          "stock": 95
+        },
+        {
+          "name": "norifumi",
+          "post": 10,
+          "stock": 36
+        },
+        {
+          "name": "johnny-miyake",
+          "post": 4,
+          "stock": 18
+        },
+        {
+          "name": "ducgiang",
+          "post": 3,
+          "stock": 8
+        },
+        {
+          "name": "bs90",
+          "post": 2,
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "name": "株式会社ねこじゃらし",
+      "page": "http://qiita.com/organizations/nekojarashi",
+      "members": [
+        {
+          "name": "y-okubo",
+          "post": 6,
+          "stock": 10
+        },
+        {
+          "name": "n-oshiro",
+          "post": 15,
+          "stock": 115
+        },
+        {
+          "name": "k-masaki",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "misakik",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "y-hara",
+          "post": 2,
+          "stock": 10
+        },
+        {
+          "name": "neko88",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "KDDI株式会社",
+      "page": "http://qiita.com/organizations/kddi",
+      "members": [
+        {
+          "name": "kotakagi",
+          "post": 1,
+          "stock": 10
+        },
+        {
+          "name": "tadfmac",
+          "post": 27,
+          "stock": 294
+        },
+        {
+          "name": "tomoyukilabs",
+          "post": 5,
+          "stock": 52
+        },
+        {
+          "name": "kkei",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "youtoy",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Cataborg",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "bluebird",
+          "post": 2,
+          "stock": 49
+        },
+        {
+          "name": "simdroid",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "satakagi",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社シロク",
+      "page": "http://qiita.com/organizations/sirok",
+      "members": [
+        {
+          "name": "sota0805",
+          "post": 15,
+          "stock": 1138
+        },
+        {
+          "name": "mugi65",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "shuntaro_tamura",
+          "post": 31,
+          "stock": 256
+        },
+        {
+          "name": "uchidas",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "katty0324",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "イタンジ株式会社",
+      "page": "http://qiita.com/organizations/itandi",
+      "members": [
+        {
+          "name": "eiei19",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "mikeda",
+          "post": 7,
+          "stock": 41
+        },
+        {
+          "name": "yokozawa",
+          "post": 13,
+          "stock": 67
+        },
+        {
+          "name": "genki0406",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "shojaku",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社ジャストシステム",
+      "page": "http://qiita.com/organizations/justsystems",
+      "members": [
+        {
+          "name": "tomato360",
+          "post": 26,
+          "stock": 114
+        },
+        {
+          "name": "don_hanabi",
+          "post": 3,
+          "stock": 12
+        },
+        {
+          "name": "eiryu",
+          "post": 9,
+          "stock": 31
+        },
+        {
+          "name": "yutetsu",
+          "post": 3,
+          "stock": 17
+        },
+        {
+          "name": "aikawa-tky",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "tsugai",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "fatwhale",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "llanll",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社gamba",
+      "page": "http://qiita.com/organizations/gamba",
+      "members": [
+        {
+          "name": "pugiemonn",
+          "post": 33,
+          "stock": 182
+        },
+        {
+          "name": "liubin",
+          "post": 44,
+          "stock": 95
+        },
+        {
+          "name": "icb54615",
+          "post": 75,
+          "stock": 521
+        },
+        {
+          "name": "ponpoko1968",
+          "post": 2,
+          "stock": 10
+        },
+        {
+          "name": "itmammoth",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "katahirado",
+          "post": 12,
+          "stock": 49
+        },
+        {
+          "name": "YuichiKitajima",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社クインテット",
+      "page": "http://qiita.com/organizations/qwintet",
+      "members": [
+        {
+          "name": "fujimaki-qwt",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "s-kiriki",
+          "post": 15,
+          "stock": 255
+        },
+        {
+          "name": "tomiyama-qwt",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "tsukagoshi-qwt",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "sanai-qwt",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "miyahara-qwt",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hirata-qwt",
+          "post": 1,
+          "stock": 3
+        },
+        {
+          "name": "motoyan-qwt",
+          "post": 1,
+          "stock": 6
+        },
+        {
+          "name": "tomoyosakai",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "nohara-qwt",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "onuki-qwt",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "minakuchi-qwt",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "heathrow, Inc.",
+      "page": "http://qiita.com/organizations/heathrow",
+      "members": [
+        {
+          "name": "unosk",
+          "post": 11,
+          "stock": 510
+        },
+        {
+          "name": "kanon_ayuayu",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kawanabe",
+          "post": 5,
+          "stock": 504
+        },
+        {
+          "name": "pandora2000",
+          "post": 8,
+          "stock": 27
+        },
+        {
+          "name": "hanzochang",
+          "post": 2,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "name": "株式会社アジケ",
+      "page": "http://qiita.com/organizations/ajike",
+      "members": [
+        {
+          "name": "iwanomotoo",
+          "post": 8,
+          "stock": 24
+        },
+        {
+          "name": "lab3-34",
+          "post": 7,
+          "stock": 40
+        },
+        {
+          "name": "koka0828",
+          "post": 2,
+          "stock": 3
+        },
+        {
+          "name": "zurg",
+          "post": 1,
+          "stock": 2
+        },
+        {
+          "name": "BEMU",
+          "post": 5,
+          "stock": 18
+        },
+        {
+          "name": "miupink",
+          "post": 1,
+          "stock": 0
+        },
+        {
+          "name": "nanami",
+          "post": 1,
+          "stock": 1
+        }
+      ]
+    },
+    {
+      "name": "株式会社Fusic",
+      "page": "http://qiita.com/organizations/fusic",
+      "members": [
+        {
+          "name": "k1LoW@github",
+          "post": 1,
+          "stock": 3
+        },
+        {
+          "name": "fantasista21jp@github",
+          "post": 2,
+          "stock": 3
+        },
+        {
+          "name": "kawahiro311",
+          "post": 3,
+          "stock": 18
+        },
+        {
+          "name": "withelmo",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "ya_ma23",
+          "post": 1,
+          "stock": 1
+        },
+        {
+          "name": "denroku",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "Kta-M",
+          "post": 12,
+          "stock": 86
+        },
+        {
+          "name": "____rina____",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kozo",
+          "post": 3,
+          "stock": 9
+        },
+        {
+          "name": "sadapon2008",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "satthi",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "yurimoon",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "debility",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社リブセンス",
+      "page": "http://qiita.com/organizations/livesense",
+      "members": [
+        {
+          "name": "taise",
+          "post": 3,
+          "stock": 218
+        },
+        {
+          "name": "suisho",
+          "post": 4,
+          "stock": 16
+        },
+        {
+          "name": "vikke",
+          "post": 1,
+          "stock": 4
+        },
+        {
+          "name": "zucay",
+          "post": 4,
+          "stock": 18
+        },
+        {
+          "name": "na-o-s",
+          "post": 1,
+          "stock": 2
+        },
+        {
+          "name": "hkano",
+          "post": 3,
+          "stock": 9
+        },
+        {
+          "name": "mikamix",
+          "post": 2,
+          "stock": 6
+        },
+        {
+          "name": "ma2saka",
+          "post": 27,
+          "stock": 202
+        },
+        {
+          "name": "masahixixi",
+          "post": 12,
+          "stock": 48
+        },
+        {
+          "name": "y-ken",
+          "post": 7,
+          "stock": 30
+        },
+        {
+          "name": "ftakao2007",
+          "post": 11,
+          "stock": 83
+        },
+        {
+          "name": "sion_cojp",
+          "post": 4,
+          "stock": 283
+        },
+        {
+          "name": "muran001",
+          "post": 17,
+          "stock": 2593
+        },
+        {
+          "name": "dkatsura",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "raamen",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    }
+  ],
+  "lastUpdate": 1411358785785
+}
