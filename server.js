@@ -17,7 +17,7 @@ Promise
   .then(function(html) {
     var $ = cheerio.load(html);
 
-    return $('.span1 a').map(function() {
+    return $('.organizationsList_orgName a').map(function() {
       return cheerio(this).attr('href');
     });
   })
@@ -42,9 +42,9 @@ Promise
       var $ = cheerio.load(html);
 
       return {
-        name: $('.organization-header h1').text(),
+        name: $('.organizationProfileHeader_orgName').text(),
         page: $('meta[property="og:url"]').attr('content'),
-        members: $('.organization-members-list').html()
+        members: $('.organizationMemberList').html()
       };
     });
   })
@@ -55,10 +55,10 @@ Promise
       return {
         name: result.name,
         page: result.page,
-        members: $('.row').map(function(index, element) {
+        members: $('.organizationMemberList_item').map(function(index, element) {
           var that = $(this),
-              nameText = that.find('.span7 h3 a').text(),
-              dataText = that.find('.span7 p').text(),
+              nameText = that.find('.organizationMemberList_userName').text(),
+              dataText = that.find('.organizationMemberList_memberStats').text(),
               regexp = /(\d+)\D*(\d+)/.exec(dataText) || {};
 
           return {
