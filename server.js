@@ -6,13 +6,11 @@ var fs = require('fs'),
 Promise
   .resolve()
   .then(function() {
-    var deferred = Promise.defer();
-  
-    request('http://qiita.com/organizations', function(err, res, body) {
-      (err) ? deferred.reject(err) : deferred.resolve(body);
+    return new Promise(function(resolve, reject) {
+      request('http://qiita.com/organizations', function(err, res, body) {
+        (err) ? reject(err) : resolve(body);
+      });
     });
-  
-    return deferred.promise;
   })
   .then(function(html) {
     var $ = cheerio.load(html);
@@ -28,13 +26,11 @@ Promise
   })
   .then(function(urls) {
     return Promise.all(urls.map(function(url) {
-      var deferred = Promise.defer();
-
-      request(url, function(err, res, body) {
-        (err) ? deferred.reject(err) : deferred.resolve(body);
+      return new Promise(function(resolve, reject) {
+        request(url, function(err, res, body) {
+          (err) ? reject(err) : resolve(body);
+        });
       });
-
-      return deferred.promise;
     }));
   })
   .then(function(htmls) {
@@ -86,13 +82,11 @@ Promise
     }, null, 2);
   })
   .then(function(json) {
-    var deferred = Promise.defer();
-
-    fs.writeFile('./index.json', json, function(err) {
-      (err) ? deferred.reject(err) : deferred.resolve();
+    return new Promise(function(resolve, reject) {
+      fs.writeFile('./index.json', json, function(err) {
+        (err) ? reject(err) : resolve();
+      });
     });
-
-    return deferred.promise;
   })
   .catch(function(err) {
     console.error(err);
