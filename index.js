@@ -42,7 +42,7 @@ d3.json('index.json', function(err, data) {
       }
     },
     size: {
-      height: 500
+      height: 350
     },
     axis: {
       y: {
@@ -64,7 +64,7 @@ d3.json('index.json', function(err, data) {
   pieSetting = {
     bindto: '.pie',
     size: {
-      height: 500
+      height: 350
     },
     data: {
       type: 'pie'
