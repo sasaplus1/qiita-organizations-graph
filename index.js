@@ -124,7 +124,7 @@ d3.json('index.json', function(err, data) {
 
         sortedArray = members.sort(function(a, b) {
           return (a[this.type] < b[this.type]) ? 1 : -1;
-        }.bind(this)).slice(0, 100);
+        }.bind(this)).slice(0, 20);
 
         names = _.pluck(sortedArray, 'name');
         value = _.pluck(sortedArray, this.type);
