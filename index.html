@@ -19,14 +19,14 @@
         <iframe src="http://ghbtns.com/github-btn.html?user=sasaplus1&repo=qiita-organizations-graph&type=watch&count=true"
             allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
       </div>
-      <nav>
-        <ul>
-          <li data-v-repeat="organizations">
-            <a data-v-cloak href="javascript:void 0" data-organization="{{$value}}" data-v-text="$value" data-v-on="click: changeOrganization"></a>
-          </li>
-        </ul>
-      </nav>
     </header>
+    <nav>
+      <ul>
+        <li data-v-repeat="organizations">
+          <a data-v-cloak href="javascript:void 0" data-organization="{{$value}}" data-v-text="$value" data-v-on="click: changeOrganization"></a>
+        </li>
+      </ul>
+    </nav>
     <main role="main">
       <h2>
         <a data-v-cloak data-v-text="organization.name" data-v-attr="href: organization.page"></a>

@@ -5,6 +5,7 @@
 html, body {
 	margin: 0;
 	padding: 0;
+	height: 100%;
 }
 
 body {
@@ -31,13 +32,16 @@ header {
 		font-weight: bolder;
 		padding: 0 0.1em;
 	}
+}
 
-	nav {
-		float: left;
-		width: 15%;
-	}
+nav {
+	float: left;
+	height: 100%;
+	margin: 1em 0 0 1em;
+	overflow: scroll;
+	width: 17em;
 
-	nav ul {
+	ul {
 		border-right: 1px solid #cccccc;
 		font-size: 80%;
 		line-height: 1.6em;
@@ -45,16 +49,16 @@ header {
 		padding: 0 1.2em 0 0;
 	}
 
-	nav ul li:nth-child(odd) {
+	ul li:nth-child(odd) {
 		background-color: #f0f0f0;
 	}
 
-	nav a {
+	a {
 		color: #339933;
 		text-decoration: none;
 	}
 
-	nav a:hover {
+	a:hover {
 		color: #66cc66;
 		text-decoration: underline;
 	}
