@@ -7,27 +7,27 @@
         {
           "name": "happy_ryo",
           "post": 25,
-          "stock": 477
+          "stock": 480
         },
         {
           "name": "t_ishida",
           "post": 63,
-          "stock": 357
+          "stock": 358
         },
         {
           "name": "masahide318",
           "post": 7,
-          "stock": 84
+          "stock": 86
         },
         {
           "name": "checkpoint",
           "post": 13,
-          "stock": 215
+          "stock": 214
         },
         {
           "name": "cobonas",
           "post": 6,
-          "stock": 35
+          "stock": 37
         },
         {
           "name": "shmurakami",
@@ -37,7 +37,7 @@
         {
           "name": "massa142",
           "post": 19,
-          "stock": 272
+          "stock": 276
         }
       ]
     },
@@ -48,12 +48,12 @@
         {
           "name": "toyoshi",
           "post": 63,
-          "stock": 528
+          "stock": 530
         },
         {
           "name": "mzp",
           "post": 10,
-          "stock": 165
+          "stock": 164
         },
         {
           "name": "Dominion525",
@@ -63,7 +63,7 @@
         {
           "name": "s3pw",
           "post": 1,
-          "stock": 668
+          "stock": 675
         },
         {
           "name": "ganmacs",
@@ -88,7 +88,7 @@
         {
           "name": "dounokouno",
           "post": 13,
-          "stock": 47
+          "stock": 49
         }
       ]
     },
@@ -109,17 +109,17 @@
         {
           "name": "LuckOfWise",
           "post": 7,
-          "stock": 207
+          "stock": 208
         },
         {
           "name": "mah_lab",
           "post": 29,
-          "stock": 480
+          "stock": 487
         },
         {
           "name": "jnchito",
-          "post": 79,
-          "stock": 8323
+          "post": 80,
+          "stock": 8506
         },
         {
           "name": "maedana",
@@ -129,17 +129,17 @@
         {
           "name": "regonn",
           "post": 17,
-          "stock": 249
+          "stock": 252
         },
         {
           "name": "Yukibou",
           "post": 3,
-          "stock": 31
+          "stock": 32
         },
         {
           "name": "ruzia",
           "post": 5,
-          "stock": 198
+          "stock": 202
         }
       ]
     },
@@ -150,7 +150,7 @@
         {
           "name": "yaotti",
           "post": 151,
-          "stock": 4461
+          "stock": 4491
         },
         {
           "name": "kony",
@@ -160,32 +160,32 @@
         {
           "name": "tatata111",
           "post": 1,
-          "stock": 20
+          "stock": 21
         },
         {
           "name": "htomine",
           "post": 1,
-          "stock": 34
+          "stock": 36
         },
         {
           "name": "yuku_t",
           "post": 160,
-          "stock": 9893
+          "stock": 9952
         },
         {
           "name": "uasi",
           "post": 99,
-          "stock": 5930
+          "stock": 5968
         },
         {
           "name": "mizchi",
-          "post": 85,
-          "stock": 3955
+          "post": 90,
+          "stock": 4192
         },
         {
           "name": "r7kamura",
-          "post": 29,
-          "stock": 3153
+          "post": 30,
+          "stock": 3217
         },
         {
           "name": "tomoasleep",
@@ -195,7 +195,7 @@
         {
           "name": "yujinakayama",
           "post": 2,
-          "stock": 259
+          "stock": 260
         }
       ]
     },
@@ -216,12 +216,12 @@
         {
           "name": "reikubonaga",
           "post": 50,
-          "stock": 2704
+          "stock": 2710
         },
         {
           "name": "susieyy",
-          "post": 34,
-          "stock": 4879
+          "post": 36,
+          "stock": 5050
         },
         {
           "name": "gakuh",
@@ -231,37 +231,42 @@
         {
           "name": "kawasy",
           "post": 10,
-          "stock": 327
+          "stock": 328
         },
         {
           "name": "awakia",
           "post": 110,
-          "stock": 5740
+          "stock": 5780
         },
         {
           "name": "south37",
           "post": 9,
-          "stock": 240
+          "stock": 244
+        },
+        {
+          "name": "creasty",
+          "post": 7,
+          "stock": 79
         },
         {
           "name": "dtan4",
-          "post": 9,
-          "stock": 102
+          "post": 10,
+          "stock": 105
         },
         {
           "name": "spesnova",
           "post": 28,
-          "stock": 1940
+          "stock": 1965
         },
         {
           "name": "morizotter",
           "post": 16,
-          "stock": 355
+          "stock": 361
         },
         {
           "name": "imaimiami",
           "post": 12,
-          "stock": 146
+          "stock": 148
         },
         {
           "name": "KentoMoriwaki",
@@ -269,14 +274,9 @@
           "stock": 2
         },
         {
-          "name": "jun0342",
-          "post": 5,
-          "stock": 89
-        },
-        {
           "name": "yoshimikeisui",
           "post": 5,
-          "stock": 385
+          "stock": 396
         },
         {
           "name": "yrmts",
@@ -286,7 +286,7 @@
         {
           "name": "cattaka",
           "post": 13,
-          "stock": 205
+          "stock": 207
         }
       ]
     },
@@ -297,7 +297,7 @@
         {
           "name": "akira-hamada",
           "post": 34,
-          "stock": 280
+          "stock": 291
         },
         {
           "name": "torimeshi1221",
@@ -318,12 +318,12 @@
         {
           "name": "takashi",
           "post": 16,
-          "stock": 271
+          "stock": 272
         },
         {
           "name": "laprasDrum",
           "post": 6,
-          "stock": 155
+          "stock": 157
         },
         {
           "name": "DNPP",
@@ -333,7 +333,7 @@
         {
           "name": "hideyuki",
           "post": 9,
-          "stock": 63
+          "stock": 65
         },
         {
           "name": "keita_",
@@ -354,12 +354,12 @@
         {
           "name": "negipo",
           "post": 2,
-          "stock": 55
+          "stock": 56
         },
         {
           "name": "PENGUINANA_",
           "post": 6,
-          "stock": 91
+          "stock": 92
         },
         {
           "name": "makimoto",
@@ -384,7 +384,7 @@
         {
           "name": "kwappa",
           "post": 18,
-          "stock": 144
+          "stock": 145
         },
         {
           "name": "sora_h",
@@ -399,7 +399,7 @@
         {
           "name": "rosylilly",
           "post": 14,
-          "stock": 994
+          "stock": 1003
         },
         {
           "name": "hotchpotch",
@@ -414,7 +414,7 @@
         {
           "name": "y_310",
           "post": 7,
-          "stock": 43
+          "stock": 45
         },
         {
           "name": "mirakui",
@@ -429,7 +429,7 @@
         {
           "name": "yoshiori",
           "post": 7,
-          "stock": 397
+          "stock": 398
         },
         {
           "name": "tanukiti1987",
@@ -470,7 +470,7 @@
         {
           "name": "kyubuns",
           "post": 14,
-          "stock": 186
+          "stock": 191
         },
         {
           "name": "tosik",
@@ -484,7 +484,7 @@
         },
         {
           "name": "enpel",
-          "post": 27,
+          "post": 28,
           "stock": 106
         },
         {
@@ -499,8 +499,8 @@
         },
         {
           "name": "skuroki@github",
-          "post": 5,
-          "stock": 18
+          "post": 6,
+          "stock": 19
         },
         {
           "name": "chiepomme",
@@ -510,12 +510,12 @@
         {
           "name": "shiwano",
           "post": 3,
-          "stock": 43
+          "stock": 45
         },
         {
           "name": "shibacow",
           "post": 16,
-          "stock": 273
+          "stock": 277
         }
       ]
     },
@@ -526,12 +526,12 @@
         {
           "name": "ninjinkun",
           "post": 19,
-          "stock": 205
+          "stock": 206
         },
         {
           "name": "cutmail",
           "post": 10,
-          "stock": 676
+          "stock": 678
         },
         {
           "name": "yutadayo",
@@ -551,7 +551,7 @@
         {
           "name": "shobyshoby",
           "post": 12,
-          "stock": 154
+          "stock": 155
         },
         {
           "name": "kurechon",
@@ -566,7 +566,7 @@
         {
           "name": "tmnb",
           "post": 5,
-          "stock": 60
+          "stock": 61
         },
         {
           "name": "unlearned",
@@ -582,7 +582,7 @@
         {
           "name": "sumyapp",
           "post": 12,
-          "stock": 192
+          "stock": 196
         },
         {
           "name": "inayuta",
@@ -592,7 +592,7 @@
         {
           "name": "yoneapp",
           "post": 17,
-          "stock": 78
+          "stock": 79
         },
         {
           "name": "ofuji",
@@ -617,38 +617,38 @@
         },
         {
           "name": "k_ui",
-          "post": 71,
-          "stock": 620
+          "post": 73,
+          "stock": 633
         },
         {
           "name": "masudaK",
           "post": 1,
-          "stock": 10
+          "stock": 11
         },
         {
           "name": "Layzie",
           "post": 15,
-          "stock": 393
+          "stock": 395
         },
         {
           "name": "osamingo",
           "post": 12,
-          "stock": 71
+          "stock": 74
         },
         {
           "name": "hachi_eiji",
           "post": 25,
-          "stock": 105
+          "stock": 106
         },
         {
           "name": "st44100",
           "post": 7,
-          "stock": 124
+          "stock": 128
         },
         {
           "name": "wataru420",
           "post": 12,
-          "stock": 152
+          "stock": 154
         },
         {
           "name": "matsukaz",
@@ -673,12 +673,12 @@
         {
           "name": "oinume",
           "post": 7,
-          "stock": 141
+          "stock": 143
         },
         {
           "name": "horimislime",
           "post": 26,
-          "stock": 2297
+          "stock": 2320
         },
         {
           "name": "ku_suke",
@@ -688,17 +688,17 @@
         {
           "name": "T_2",
           "post": 6,
-          "stock": 29
+          "stock": 32
         },
         {
           "name": "1000ch",
           "post": 13,
-          "stock": 147
+          "stock": 169
         },
         {
           "name": "takeharu",
           "post": 14,
-          "stock": 2833
+          "stock": 2878
         },
         {
           "name": "rinunu",
@@ -713,17 +713,17 @@
         {
           "name": "suguru03",
           "post": 4,
-          "stock": 47
+          "stock": 50
         },
         {
           "name": "jnst@github",
           "post": 3,
-          "stock": 38
+          "stock": 39
         },
         {
           "name": "na_ga",
           "post": 28,
-          "stock": 67
+          "stock": 71
         },
         {
           "name": "hyperdash@github",
@@ -763,22 +763,27 @@
         {
           "name": "hiloki@github",
           "post": 6,
-          "stock": 242
+          "stock": 244
         },
         {
           "name": "kaz2ngt",
           "post": 3,
-          "stock": 88
+          "stock": 89
         },
         {
           "name": "takuya152005@github",
-          "post": 0,
+          "post": 1,
           "stock": 0
         },
         {
           "name": "ton-katsu",
           "post": 0,
           "stock": 0
+        },
+        {
+          "name": "a-beco",
+          "post": 3,
+          "stock": 48
         },
         {
           "name": "arumani",
@@ -845,7 +850,7 @@
         {
           "name": "roothybrid7",
           "post": 38,
-          "stock": 560
+          "stock": 564
         },
         {
           "name": "migi",
@@ -865,17 +870,17 @@
         {
           "name": "katsuhisaishii",
           "post": 56,
-          "stock": 543
+          "stock": 554
         },
         {
           "name": "tanishi",
           "post": 17,
-          "stock": 140
+          "stock": 146
         },
         {
           "name": "yoshikikoji",
           "post": 2,
-          "stock": 2
+          "stock": 4
         }
       ]
     },
@@ -886,17 +891,17 @@
         {
           "name": "tbaba",
           "post": 21,
-          "stock": 984
+          "stock": 990
         },
         {
           "name": "ken_c_lo",
           "post": 7,
-          "stock": 1899
+          "stock": 1911
         },
         {
           "name": "oukayuka",
           "post": 7,
-          "stock": 130
+          "stock": 135
         },
         {
           "name": "idesaku",
@@ -931,8 +936,8 @@
       "members": [
         {
           "name": "FGtatsuro",
-          "post": 51,
-          "stock": 419
+          "post": 54,
+          "stock": 429
         },
         {
           "name": "ssmi",
@@ -972,8 +977,8 @@
       "members": [
         {
           "name": "edo_m18",
-          "post": 257,
-          "stock": 5030
+          "post": 258,
+          "stock": 5124
         },
         {
           "name": "butchi_y",
@@ -983,7 +988,7 @@
         {
           "name": "calmbooks",
           "post": 12,
-          "stock": 380
+          "stock": 382
         },
         {
           "name": "seiyavw",
@@ -998,12 +1003,12 @@
         {
           "name": "fnobi",
           "post": 62,
-          "stock": 1269
+          "stock": 1283
         },
         {
           "name": "ki_230",
           "post": 6,
-          "stock": 37
+          "stock": 38
         },
         {
           "name": "rtshaaaa",
@@ -1013,12 +1018,12 @@
         {
           "name": "nenjiru",
           "post": 27,
-          "stock": 260
+          "stock": 262
         },
         {
           "name": "gonshi_com",
-          "post": 69,
-          "stock": 368
+          "post": 70,
+          "stock": 370
         }
       ]
     },
@@ -1028,8 +1033,8 @@
       "members": [
         {
           "name": "sasaplus1",
-          "post": 85,
-          "stock": 755
+          "post": 86,
+          "stock": 770
         },
         {
           "name": "mi73",
@@ -1039,22 +1044,22 @@
         {
           "name": "kzhrk",
           "post": 22,
-          "stock": 178
+          "stock": 181
         },
         {
           "name": "svjunic",
           "post": 6,
-          "stock": 106
+          "stock": 108
         },
         {
           "name": "mamoida",
           "post": 21,
-          "stock": 105
+          "stock": 108
         },
         {
           "name": "HieroglypH",
           "post": 12,
-          "stock": 194
+          "stock": 199
         },
         {
           "name": "knockknock-jp",
@@ -1075,7 +1080,7 @@
         {
           "name": "drobune",
           "post": 33,
-          "stock": 259
+          "stock": 264
         },
         {
           "name": "Motokiy@github",
@@ -1085,7 +1090,7 @@
         {
           "name": "ta9to",
           "post": 47,
-          "stock": 892
+          "stock": 901
         },
         {
           "name": "akirang10",
@@ -1095,7 +1100,7 @@
         {
           "name": "hidek84",
           "post": 1,
-          "stock": 75
+          "stock": 79
         },
         {
           "name": "RyoIkarashi",
@@ -1110,8 +1115,8 @@
       "members": [
         {
           "name": "takc923",
-          "post": 75,
-          "stock": 1182
+          "post": 76,
+          "stock": 1209
         },
         {
           "name": "takano32",
@@ -1141,7 +1146,7 @@
         {
           "name": "pandamachine715",
           "post": 3,
-          "stock": 22
+          "stock": 23
         },
         {
           "name": "M_Ishikawa",
@@ -1151,7 +1156,7 @@
         {
           "name": "kobakei",
           "post": 9,
-          "stock": 268
+          "stock": 283
         },
         {
           "name": "tkyk_jp",
@@ -1166,7 +1171,7 @@
         {
           "name": "g-1",
           "post": 15,
-          "stock": 142
+          "stock": 146
         },
         {
           "name": "brandonwoo",
@@ -1180,8 +1185,8 @@
         },
         {
           "name": "watilde",
-          "post": 24,
-          "stock": 221
+          "post": 25,
+          "stock": 222
         },
         {
           "name": "edy",
@@ -1191,12 +1196,12 @@
         {
           "name": "foostan",
           "post": 7,
-          "stock": 260
+          "stock": 267
         },
         {
           "name": "tatsu-yam",
           "post": 4,
-          "stock": 69
+          "stock": 70
         },
         {
           "name": "gree_tech",
@@ -1226,7 +1231,7 @@
         {
           "name": "treby",
           "post": 1,
-          "stock": 664
+          "stock": 668
         },
         {
           "name": "Barbayar",
@@ -1302,7 +1307,7 @@
         {
           "name": "saku",
           "post": 12,
-          "stock": 223
+          "stock": 226
         },
         {
           "name": "dmurasaki",
@@ -1318,12 +1323,12 @@
         {
           "name": "katapad",
           "post": 35,
-          "stock": 1467
+          "stock": 1473
         },
         {
           "name": "torufurukawa",
           "post": 4,
-          "stock": 57
+          "stock": 58
         },
         {
           "name": "sakusan393",
@@ -1332,8 +1337,8 @@
         },
         {
           "name": "toritori0318",
-          "post": 17,
-          "stock": 1085
+          "post": 18,
+          "stock": 1274
         },
         {
           "name": "E_dash",
@@ -1343,17 +1348,17 @@
         {
           "name": "seyself",
           "post": 16,
-          "stock": 86
+          "stock": 87
         },
         {
           "name": "_nabe",
-          "post": 8,
-          "stock": 26
+          "post": 10,
+          "stock": 28
         },
         {
           "name": "naoiwata",
           "post": 31,
-          "stock": 541
+          "stock": 547
         },
         {
           "name": "iganoneko",
@@ -1369,37 +1374,37 @@
         {
           "name": "hdtkkj",
           "post": 9,
-          "stock": 44
+          "stock": 45
         },
         {
           "name": "ainame",
-          "post": 21,
-          "stock": 366
+          "post": 22,
+          "stock": 368
         },
         {
           "name": "tacke_jp",
           "post": 6,
-          "stock": 243
+          "stock": 245
         },
         {
           "name": "kodam",
           "post": 16,
-          "stock": 769
+          "stock": 821
         },
         {
           "name": "lapis25",
           "post": 2,
-          "stock": 14
+          "stock": 15
         },
         {
           "name": "yuya_presto",
           "post": 15,
-          "stock": 1450
+          "stock": 1454
         },
         {
           "name": "Kuniwak",
           "post": 3,
-          "stock": 253
+          "stock": 254
         },
         {
           "name": "bilyakudan",
@@ -1414,27 +1419,27 @@
         {
           "name": "Amothic",
           "post": 3,
-          "stock": 21
+          "stock": 22
         },
         {
           "name": "tnj",
           "post": 5,
-          "stock": 649
+          "stock": 655
         },
         {
           "name": "takaya1992",
           "post": 4,
-          "stock": 31
+          "stock": 33
         },
         {
           "name": "ginrou@github",
-          "post": 9,
-          "stock": 94
+          "post": 10,
+          "stock": 106
         },
         {
           "name": "junsumida",
           "post": 12,
-          "stock": 78
+          "stock": 82
         },
         {
           "name": "Sangen",
@@ -1444,12 +1449,12 @@
         {
           "name": "luckypool",
           "post": 11,
-          "stock": 872
+          "stock": 882
         },
         {
           "name": "ishikawa@github",
           "post": 4,
-          "stock": 50
+          "stock": 49
         },
         {
           "name": "takimo@github",
@@ -1464,12 +1469,12 @@
         {
           "name": "yoan",
           "post": 3,
-          "stock": 48
+          "stock": 49
         },
         {
           "name": "isaoshimizu",
           "post": 26,
-          "stock": 569
+          "stock": 574
         },
         {
           "name": "watt1006",
@@ -1479,7 +1484,7 @@
         {
           "name": "radioboo",
           "post": 6,
-          "stock": 76
+          "stock": 78
         },
         {
           "name": "hidey",
@@ -1493,8 +1498,8 @@
         },
         {
           "name": "hirokidaichi",
-          "post": 29,
-          "stock": 15370
+          "post": 30,
+          "stock": 15440
         },
         {
           "name": "chenjun835",
@@ -1504,12 +1509,12 @@
         {
           "name": "kojikita",
           "post": 1,
-          "stock": 43
+          "stock": 45
         },
         {
           "name": "shirochan",
           "post": 6,
-          "stock": 528
+          "stock": 535
         },
         {
           "name": "keito5656",
@@ -1524,7 +1529,7 @@
         {
           "name": "suino",
           "post": 1,
-          "stock": 714
+          "stock": 717
         },
         {
           "name": "chipple",
@@ -1533,23 +1538,23 @@
         },
         {
           "name": "punchdrunker",
-          "post": 8,
-          "stock": 176
+          "post": 9,
+          "stock": 184
         },
         {
           "name": "watarin",
           "post": 14,
-          "stock": 226
+          "stock": 228
         },
         {
           "name": "yoshikazusawa",
           "post": 10,
-          "stock": 536
+          "stock": 537
         },
         {
           "name": "kkakizaki",
           "post": 2,
-          "stock": 53
+          "stock": 54
         },
         {
           "name": "mrmt",
@@ -1559,7 +1564,7 @@
         {
           "name": "kikuchy",
           "post": 17,
-          "stock": 266
+          "stock": 274
         },
         {
           "name": "rokupima",
@@ -1585,22 +1590,22 @@
         {
           "name": "vvakame",
           "post": 24,
-          "stock": 3929
+          "stock": 3952
         },
         {
           "name": "sinmetal",
           "post": 17,
-          "stock": 516
+          "stock": 526
         },
         {
           "name": "eaglesakura",
           "post": 2,
-          "stock": 275
+          "stock": 278
         },
         {
           "name": "grapswiz",
           "post": 13,
-          "stock": 2014
+          "stock": 2021
         },
         {
           "name": "tab02733",
@@ -1615,7 +1620,7 @@
         {
           "name": "kazunorisasaki",
           "post": 3,
-          "stock": 23
+          "stock": 24
         },
         {
           "name": "Suwato",
@@ -1651,42 +1656,42 @@
         {
           "name": "tototoshi",
           "post": 13,
-          "stock": 110
+          "stock": 112
         },
         {
           "name": "tadsan",
           "post": 68,
-          "stock": 2334
+          "stock": 2408
         },
         {
           "name": "harukasan",
           "post": 44,
-          "stock": 2339
+          "stock": 2357
         },
         {
           "name": "bash0C7",
           "post": 8,
-          "stock": 97
+          "stock": 101
         },
         {
           "name": "alpaca_taichou",
           "post": 9,
-          "stock": 1594
+          "stock": 1598
         },
         {
           "name": "shobyshoby",
           "post": 12,
-          "stock": 154
+          "stock": 155
         },
         {
           "name": "geta6",
           "post": 9,
-          "stock": 532
+          "stock": 535
         },
         {
           "name": "catatsuy",
-          "post": 68,
-          "stock": 1674
+          "post": 69,
+          "stock": 1692
         },
         {
           "name": "consomme72",
@@ -1696,7 +1701,7 @@
         {
           "name": "itochan",
           "post": 14,
-          "stock": 103
+          "stock": 104
         },
         {
           "name": "walf443",
@@ -1721,12 +1726,12 @@
         {
           "name": "chocomelon",
           "post": 7,
-          "stock": 96
+          "stock": 107
         },
         {
           "name": "saboyutaka",
           "post": 6,
-          "stock": 404
+          "stock": 417
         },
         {
           "name": "neo-nanikaka",
@@ -1742,12 +1747,12 @@
         {
           "name": "ww24",
           "post": 7,
-          "stock": 56
+          "stock": 58
         },
         {
           "name": "raa0121",
-          "post": 2,
-          "stock": 6
+          "post": 3,
+          "stock": 8
         },
         {
           "name": "miio@github",
@@ -1757,12 +1762,12 @@
         {
           "name": "tekkoc",
           "post": 28,
-          "stock": 1019
+          "stock": 1029
         },
         {
           "name": "l3msh0",
           "post": 7,
-          "stock": 242
+          "stock": 245
         },
         {
           "name": "makies",
@@ -1782,12 +1787,12 @@
         {
           "name": "maosanhioro",
           "post": 5,
-          "stock": 121
+          "stock": 126
         },
         {
           "name": "letsspeak",
           "post": 12,
-          "stock": 294
+          "stock": 296
         }
       ]
     },
@@ -1808,12 +1813,12 @@
         {
           "name": "kou_bacchus",
           "post": 10,
-          "stock": 115
+          "stock": 117
         },
         {
           "name": "eyesonly",
           "post": 4,
-          "stock": 30
+          "stock": 33
         },
         {
           "name": "m-sakano",
@@ -1828,7 +1833,7 @@
         {
           "name": "iron-breaker",
           "post": 17,
-          "stock": 287
+          "stock": 288
         },
         {
           "name": "HideakiTomioka",
@@ -1893,7 +1898,7 @@
         {
           "name": "namihitoo",
           "post": 8,
-          "stock": 83
+          "stock": 86
         },
         {
           "name": "Jungle",
@@ -1933,8 +1938,8 @@
         },
         {
           "name": "hokaccha",
-          "post": 23,
-          "stock": 344
+          "post": 25,
+          "stock": 352
         },
         {
           "name": "soto3",
@@ -1949,7 +1954,7 @@
         {
           "name": "nakajmg",
           "post": 33,
-          "stock": 1401
+          "stock": 1405
         },
         {
           "name": "yomotsu",
@@ -1964,7 +1969,7 @@
         {
           "name": "GeckoTang",
           "post": 2,
-          "stock": 212
+          "stock": 214
         },
         {
           "name": "5509",
@@ -1985,12 +1990,12 @@
         {
           "name": "nao58",
           "post": 21,
-          "stock": 200
+          "stock": 203
         },
         {
           "name": "ha_g1",
           "post": 10,
-          "stock": 54
+          "stock": 55
         },
         {
           "name": "tsugi2009",
@@ -1999,8 +2004,8 @@
         },
         {
           "name": "koitatu",
-          "post": 6,
-          "stock": 23
+          "post": 7,
+          "stock": 28
         },
         {
           "name": "xhide3",
@@ -2065,13 +2070,13 @@
       "members": [
         {
           "name": "sora0077@github",
-          "post": 20,
-          "stock": 312
+          "post": 21,
+          "stock": 318
         },
         {
           "name": "mokemokechicken",
           "post": 73,
-          "stock": 1448
+          "stock": 1464
         },
         {
           "name": "nave-m",
@@ -2081,12 +2086,12 @@
         {
           "name": "u-minor",
           "post": 10,
-          "stock": 123
+          "stock": 127
         },
         {
           "name": "rysk92@github",
           "post": 17,
-          "stock": 48
+          "stock": 49
         },
         {
           "name": "barista",
@@ -2096,7 +2101,7 @@
         {
           "name": "peromasamune",
           "post": 8,
-          "stock": 326
+          "stock": 334
         },
         {
           "name": "oigus-k",
@@ -2106,7 +2111,7 @@
         {
           "name": "kou",
           "post": 7,
-          "stock": 289
+          "stock": 295
         },
         {
           "name": "kaoru",
@@ -2116,7 +2121,7 @@
         {
           "name": "hkusu",
           "post": 146,
-          "stock": 4249
+          "stock": 4310
         },
         {
           "name": "raykataoka",
@@ -2126,17 +2131,17 @@
         {
           "name": "murapon",
           "post": 6,
-          "stock": 194
+          "stock": 199
         },
         {
           "name": "Shoesk",
           "post": 11,
-          "stock": 47
+          "stock": 48
         },
         {
           "name": "taruhachi",
           "post": 9,
-          "stock": 633
+          "stock": 637
         },
         {
           "name": "intel_yu",
@@ -2160,8 +2165,8 @@
         },
         {
           "name": "amoO_O",
-          "post": 42,
-          "stock": 317
+          "post": 43,
+          "stock": 325
         },
         {
           "name": "king_yuka",
@@ -2186,7 +2191,7 @@
         {
           "name": "hironaito",
           "post": 4,
-          "stock": 35
+          "stock": 36
         },
         {
           "name": "kagami",
@@ -2216,7 +2221,7 @@
         {
           "name": "YusukeSaito",
           "post": 2,
-          "stock": 31
+          "stock": 33
         }
       ]
     },
@@ -2278,12 +2283,12 @@
         {
           "name": "sassy_watson",
           "post": 50,
-          "stock": 393
+          "stock": 402
         },
         {
           "name": "hiromisawada",
           "post": 2,
-          "stock": 21
+          "stock": 22
         },
         {
           "name": "aTaroAsari",
@@ -2303,7 +2308,7 @@
         {
           "name": "kasaharu",
           "post": 38,
-          "stock": 1285
+          "stock": 1303
         },
         {
           "name": "gm_kou",
@@ -2318,12 +2323,12 @@
         {
           "name": "aKunihiroIshiguro",
           "post": 6,
-          "stock": 581
+          "stock": 584
         },
         {
           "name": "naohikowatanabe",
           "post": 13,
-          "stock": 82
+          "stock": 83
         },
         {
           "name": "pankona",
@@ -2333,12 +2338,12 @@
         {
           "name": "aSeijiUrushihara",
           "post": 2,
-          "stock": 38
+          "stock": 39
         },
         {
           "name": "aKenjiKato",
           "post": 38,
-          "stock": 615
+          "stock": 621
         },
         {
           "name": "shotasakamoto",
@@ -2353,7 +2358,7 @@
         {
           "name": "magicant",
           "post": 17,
-          "stock": 2684
+          "stock": 2693
         },
         {
           "name": "ikeyasu",
@@ -2363,7 +2368,7 @@
         {
           "name": "ynakase",
           "post": 3,
-          "stock": 71
+          "stock": 73
         },
         {
           "name": "aMasatoYui",
@@ -2372,13 +2377,13 @@
         },
         {
           "name": "aKentaKoyama",
-          "post": 3,
-          "stock": 144
+          "post": 5,
+          "stock": 149
         },
         {
           "name": "u_one",
           "post": 8,
-          "stock": 59
+          "stock": 60
         },
         {
           "name": "skirino",
@@ -2398,7 +2403,7 @@
         {
           "name": "DaisukeKondo",
           "post": 3,
-          "stock": 47
+          "stock": 50
         },
         {
           "name": "aShinjiHoshino",
@@ -2423,7 +2428,7 @@
         {
           "name": "asukamirai",
           "post": 4,
-          "stock": 80
+          "stock": 82
         },
         {
           "name": "akegashi",
@@ -2453,12 +2458,12 @@
         {
           "name": "sylph01",
           "post": 17,
-          "stock": 644
+          "stock": 646
         },
         {
           "name": "aDaisukeSakyo",
           "post": 2,
-          "stock": 21
+          "stock": 22
         },
         {
           "name": "aDaisukeFuji",
@@ -2468,12 +2473,12 @@
         {
           "name": "ssingu",
           "post": 1,
-          "stock": 10
+          "stock": 11
         },
         {
           "name": "aMasashiUmeda",
           "post": 4,
-          "stock": 23
+          "stock": 24
         },
         {
           "name": "aKatsuhiroMihara",
@@ -2488,7 +2493,7 @@
         {
           "name": "dsanno",
           "post": 3,
-          "stock": 37
+          "stock": 38
         }
       ]
     },
@@ -2499,7 +2504,7 @@
         {
           "name": "shoz@github",
           "post": 2,
-          "stock": 12
+          "stock": 13
         },
         {
           "name": "naoya_t",
@@ -2509,7 +2514,7 @@
         {
           "name": "ikuyamada",
           "post": 14,
-          "stock": 189
+          "stock": 191
         },
         {
           "name": "kojiyamada@github",
@@ -2560,12 +2565,12 @@
         {
           "name": "violetyk",
           "post": 4,
-          "stock": 57
+          "stock": 58
         },
         {
           "name": "inureo",
-          "post": 3,
-          "stock": 5
+          "post": 4,
+          "stock": 10
         },
         {
           "name": "wadap",
@@ -2579,13 +2584,13 @@
         },
         {
           "name": "kozyty@github",
-          "post": 10,
-          "stock": 165
+          "post": 11,
+          "stock": 168
         },
         {
           "name": "hagiyat",
-          "post": 1,
-          "stock": 4
+          "post": 2,
+          "stock": 7
         },
         {
           "name": "otukutun",
@@ -2610,7 +2615,7 @@
         {
           "name": "Vexus2",
           "post": 39,
-          "stock": 873
+          "stock": 886
         },
         {
           "name": "daisuke_kubota",
@@ -2620,7 +2625,7 @@
         {
           "name": "yunico-jp",
           "post": 1,
-          "stock": 148
+          "stock": 150
         },
         {
           "name": "uetani",
@@ -2630,7 +2635,7 @@
         {
           "name": "takana8",
           "post": 4,
-          "stock": 22
+          "stock": 23
         },
         {
           "name": "shizuc",
@@ -2640,7 +2645,7 @@
         {
           "name": "Hoshi_7",
           "post": 18,
-          "stock": 404
+          "stock": 410
         },
         {
           "name": "shigure_onishi",
@@ -2656,22 +2661,22 @@
         {
           "name": "garbagetown",
           "post": 19,
-          "stock": 337
+          "stock": 340
         },
         {
           "name": "isaac-otao",
           "post": 4,
-          "stock": 107
+          "stock": 113
         },
         {
           "name": "ynakayama",
-          "post": 163,
-          "stock": 3053
+          "post": 164,
+          "stock": 3134
         },
         {
           "name": "maruyam-a",
           "post": 15,
-          "stock": 249
+          "stock": 258
         },
         {
           "name": "n-shinkai",
@@ -2681,12 +2686,12 @@
         {
           "name": "u-chida",
           "post": 6,
-          "stock": 133
+          "stock": 137
         },
         {
           "name": "ShingoOikawa",
           "post": 25,
-          "stock": 112
+          "stock": 116
         },
         {
           "name": "kumasaka",
@@ -2701,13 +2706,13 @@
       "members": [
         {
           "name": "knt45",
-          "post": 125,
-          "stock": 1285
+          "post": 126,
+          "stock": 1303
         },
         {
           "name": "HamaTech",
           "post": 16,
-          "stock": 229
+          "stock": 233
         }
       ]
     },
@@ -2718,12 +2723,12 @@
         {
           "name": "voluntas",
           "post": 70,
-          "stock": 2312
+          "stock": 2333
         },
         {
           "name": "seizans",
           "post": 14,
-          "stock": 522
+          "stock": 527
         },
         {
           "name": "yuitowest",
@@ -2733,7 +2738,7 @@
         {
           "name": "Hexa",
           "post": 16,
-          "stock": 177
+          "stock": 182
         },
         {
           "name": "szktty",
@@ -2754,7 +2759,7 @@
         {
           "name": "artifactsauce",
           "post": 8,
-          "stock": 108
+          "stock": 109
         },
         {
           "name": "Kular@github",
@@ -2764,12 +2769,12 @@
         {
           "name": "who_you_me",
           "post": 14,
-          "stock": 341
+          "stock": 353
         },
         {
           "name": "xxthermidorxx",
           "post": 8,
-          "stock": 69
+          "stock": 75
         },
         {
           "name": "yoshiyuki_onishi",
@@ -2795,7 +2800,7 @@
         {
           "name": "mtoyoshi",
           "post": 27,
-          "stock": 294
+          "stock": 300
         },
         {
           "name": "yyuu5",
@@ -2810,7 +2815,7 @@
         {
           "name": "f81@github",
           "post": 34,
-          "stock": 649
+          "stock": 667
         },
         {
           "name": "kaz3284",
@@ -2835,17 +2840,17 @@
         {
           "name": "setzz",
           "post": 29,
-          "stock": 705
+          "stock": 723
         },
         {
           "name": "natsuisexy",
           "post": 1,
-          "stock": 4
+          "stock": 5
         },
         {
           "name": "msano",
           "post": 14,
-          "stock": 128
+          "stock": 131
         }
       ]
     },
@@ -2875,8 +2880,8 @@
         },
         {
           "name": "itkr",
-          "post": 1,
-          "stock": 20
+          "post": 2,
+          "stock": 26
         },
         {
           "name": "isoparametric",
@@ -2917,22 +2922,22 @@
         {
           "name": "mopemope",
           "post": 10,
-          "stock": 2341
+          "stock": 2353
         },
         {
           "name": "yone098@github",
           "post": 5,
-          "stock": 1432
+          "stock": 1435
         },
         {
           "name": "garsue",
           "post": 6,
-          "stock": 43
+          "stock": 45
         },
         {
           "name": "shinsan68k",
           "post": 10,
-          "stock": 99
+          "stock": 103
         },
         {
           "name": "matcha014",
@@ -2948,27 +2953,27 @@
         {
           "name": "shuhei",
           "post": 165,
-          "stock": 1527
+          "stock": 1544
         },
         {
           "name": "yteraoka",
           "post": 22,
-          "stock": 577
+          "stock": 591
         },
         {
           "name": "morizyun",
           "post": 7,
-          "stock": 117
+          "stock": 119
         },
         {
           "name": "ngsw_taro",
           "post": 5,
-          "stock": 120
+          "stock": 121
         },
         {
           "name": "ma2ge",
-          "post": 26,
-          "stock": 248
+          "post": 27,
+          "stock": 256
         },
         {
           "name": "seratch@github",
@@ -2978,7 +2983,7 @@
         {
           "name": "youcune",
           "post": 39,
-          "stock": 999
+          "stock": 1014
         },
         {
           "name": "cb372",
@@ -2988,7 +2993,7 @@
         {
           "name": "Apuruny",
           "post": 6,
-          "stock": 34
+          "stock": 35
         },
         {
           "name": "btakashi",
@@ -2998,7 +3003,7 @@
         {
           "name": "yancharica",
           "post": 1,
-          "stock": 10
+          "stock": 11
         },
         {
           "name": "k-uemura",
@@ -3029,17 +3034,17 @@
         {
           "name": "woremacx",
           "post": 11,
-          "stock": 66
+          "stock": 68
         },
         {
           "name": "anoworl",
           "post": 11,
-          "stock": 490
+          "stock": 499
         },
         {
           "name": "amanoiverse",
           "post": 16,
-          "stock": 80
+          "stock": 89
         },
         {
           "name": "python_spameggs",
@@ -3054,7 +3059,7 @@
         {
           "name": "kikuchy",
           "post": 17,
-          "stock": 266
+          "stock": 274
         },
         {
           "name": "kanamin",
@@ -3105,12 +3110,12 @@
         {
           "name": "kasei-san",
           "post": 41,
-          "stock": 651
+          "stock": 668
         },
         {
           "name": "hapicky",
           "post": 3,
-          "stock": 38
+          "stock": 39
         },
         {
           "name": "tmd45",
@@ -3130,7 +3135,7 @@
         {
           "name": "kano-e",
           "post": 7,
-          "stock": 72
+          "stock": 73
         },
         {
           "name": "a-know",
@@ -3211,7 +3216,7 @@
         {
           "name": "y_arakawa",
           "post": 4,
-          "stock": 29
+          "stock": 33
         },
         {
           "name": "t_kaifuku",
@@ -3261,7 +3266,7 @@
         {
           "name": "ch_hori",
           "post": 2,
-          "stock": 18
+          "stock": 19
         },
         {
           "name": "hrk98",
@@ -3361,13 +3366,13 @@
       "members": [
         {
           "name": "masarufuruya",
-          "post": 20,
-          "stock": 208
+          "post": 21,
+          "stock": 218
         },
         {
           "name": "Sugima",
           "post": 5,
-          "stock": 343
+          "stock": 344
         },
         {
           "name": "yujiod",
@@ -3402,7 +3407,7 @@
         {
           "name": "snoguchi",
           "post": 4,
-          "stock": 29
+          "stock": 30
         }
       ]
     },
@@ -3413,12 +3418,12 @@
         {
           "name": "koara-local",
           "post": 8,
-          "stock": 101
+          "stock": 103
         },
         {
           "name": "maueki",
           "post": 18,
-          "stock": 237
+          "stock": 238
         },
         {
           "name": "tushijima",
@@ -3479,12 +3484,12 @@
         {
           "name": "thrakt",
           "post": 9,
-          "stock": 49
+          "stock": 50
         },
         {
           "name": "hakuro",
           "post": 14,
-          "stock": 256
+          "stock": 259
         },
         {
           "name": "tsuka140401",
@@ -3520,12 +3525,12 @@
         {
           "name": "derui@github",
           "post": 10,
-          "stock": 352
+          "stock": 357
         },
         {
           "name": "kimura_m_29",
           "post": 2,
-          "stock": 33
+          "stock": 36
         },
         {
           "name": "miyatah",
@@ -3535,37 +3540,37 @@
         {
           "name": "morozumi_h",
           "post": 18,
-          "stock": 593
+          "stock": 598
         },
         {
           "name": "miyatay",
           "post": 5,
-          "stock": 108
+          "stock": 114
         },
         {
           "name": "akidn8",
           "post": 2,
-          "stock": 29
+          "stock": 30
         },
         {
           "name": "okuda_h",
           "post": 13,
-          "stock": 68
+          "stock": 70
         },
         {
           "name": "hterada",
           "post": 8,
-          "stock": 49
+          "stock": 51
         },
         {
           "name": "2KB",
           "post": 12,
-          "stock": 393
+          "stock": 396
         },
         {
           "name": "kokumura",
           "post": 5,
-          "stock": 49
+          "stock": 50
         },
         {
           "name": "ayu_kane",
@@ -3575,7 +3580,7 @@
         {
           "name": "hirame_23",
           "post": 12,
-          "stock": 83
+          "stock": 85
         },
         {
           "name": "tonoKrkr",
@@ -3606,7 +3611,7 @@
         {
           "name": "ryo0301",
           "post": 21,
-          "stock": 543
+          "stock": 550
         },
         {
           "name": "fujipara",
@@ -3621,12 +3626,12 @@
         {
           "name": "mini_house",
           "post": 4,
-          "stock": 169
+          "stock": 172
         },
         {
           "name": "szk3",
-          "post": 11,
-          "stock": 69
+          "post": 12,
+          "stock": 78
         },
         {
           "name": "nabewata07",
@@ -3635,13 +3640,13 @@
         },
         {
           "name": "simeji",
-          "post": 10,
-          "stock": 557
+          "post": 11,
+          "stock": 564
         },
         {
           "name": "Sam",
           "post": 14,
-          "stock": 560
+          "stock": 568
         },
         {
           "name": "kazuktym",
@@ -3661,17 +3666,17 @@
         {
           "name": "ssqiita",
           "post": 5,
-          "stock": 54
+          "stock": 55
         },
         {
           "name": "mo_to_44",
           "post": 17,
-          "stock": 510
+          "stock": 523
         },
         {
           "name": "telx2bz",
           "post": 2,
-          "stock": 11
+          "stock": 12
         },
         {
           "name": "ikeisuke",
@@ -3685,8 +3690,8 @@
         },
         {
           "name": "oubakiou",
-          "post": 12,
-          "stock": 120
+          "post": 13,
+          "stock": 146
         },
         {
           "name": "bohemian916",
@@ -3717,7 +3722,7 @@
         {
           "name": "suginoy",
           "post": 23,
-          "stock": 91
+          "stock": 92
         },
         {
           "name": "mdaisuke",
@@ -3742,12 +3747,12 @@
         {
           "name": "futoase",
           "post": 91,
-          "stock": 2631
+          "stock": 2653
         },
         {
           "name": "kakkunpakkun",
           "post": 18,
-          "stock": 733
+          "stock": 744
         },
         {
           "name": "yonekawa",
@@ -3757,7 +3762,7 @@
         {
           "name": "ymrl",
           "post": 3,
-          "stock": 96
+          "stock": 137
         },
         {
           "name": "yfuka86",
@@ -3803,17 +3808,17 @@
         {
           "name": "masarakki",
           "post": 11,
-          "stock": 159
+          "stock": 162
         },
         {
           "name": "shoito",
           "post": 11,
-          "stock": 223
+          "stock": 225
         },
         {
           "name": "meso",
           "post": 1,
-          "stock": 24
+          "stock": 28
         },
         {
           "name": "kokuyouwind",
@@ -3828,7 +3833,7 @@
         {
           "name": "kwappa",
           "post": 18,
-          "stock": 144
+          "stock": 145
         },
         {
           "name": "sifue",
@@ -3838,17 +3843,17 @@
         {
           "name": "erukiti",
           "post": 20,
-          "stock": 241
+          "stock": 243
         },
         {
           "name": "takyam",
           "post": 11,
-          "stock": 34
+          "stock": 36
         },
         {
           "name": "shimacpyon",
           "post": 34,
-          "stock": 239
+          "stock": 241
         },
         {
           "name": "koizuka",
@@ -3858,7 +3863,7 @@
         {
           "name": "iwag@github",
           "post": 20,
-          "stock": 110
+          "stock": 111
         },
         {
           "name": "saiten",
@@ -3888,17 +3893,17 @@
         {
           "name": "mtgto",
           "post": 3,
-          "stock": 156
+          "stock": 158
         },
         {
           "name": "regtan",
           "post": 2,
-          "stock": 8
+          "stock": 9
         },
         {
           "name": "ixixi",
           "post": 2,
-          "stock": 312
+          "stock": 316
         },
         {
           "name": "hiroki_kana",
@@ -3918,17 +3923,17 @@
         {
           "name": "chuross",
           "post": 12,
-          "stock": 374
+          "stock": 378
         },
         {
           "name": "ringo",
           "post": 12,
-          "stock": 303
+          "stock": 307
         },
         {
           "name": "jagaximo",
           "post": 6,
-          "stock": 113
+          "stock": 114
         },
         {
           "name": "KOU_CHANG",
@@ -3938,12 +3943,12 @@
         {
           "name": "liquid_amber",
           "post": 10,
-          "stock": 29
+          "stock": 30
         },
         {
           "name": "bigwheel",
           "post": 8,
-          "stock": 101
+          "stock": 104
         },
         {
           "name": "suikwasha",
@@ -3958,12 +3963,12 @@
         {
           "name": "sile",
           "post": 10,
-          "stock": 65
+          "stock": 67
         },
         {
           "name": "toRisouP",
-          "post": 8,
-          "stock": 68
+          "post": 10,
+          "stock": 94
         },
         {
           "name": "yukkuri_sinai",
@@ -3978,7 +3983,7 @@
         {
           "name": "binzume",
           "post": 6,
-          "stock": 47
+          "stock": 52
         }
       ]
     },
@@ -3994,32 +3999,32 @@
         {
           "name": "YHayama@github",
           "post": 1,
-          "stock": 14
+          "stock": 15
         },
         {
           "name": "alingogo",
           "post": 42,
-          "stock": 203
+          "stock": 205
         },
         {
           "name": "mechamogera",
-          "post": 88,
-          "stock": 808
+          "post": 89,
+          "stock": 816
         },
         {
           "name": "ogawatti",
           "post": 49,
-          "stock": 311
+          "stock": 315
         },
         {
           "name": "paty-fakename",
           "post": 19,
-          "stock": 216
+          "stock": 218
         },
         {
           "name": "chinmo@github",
           "post": 6,
-          "stock": 53
+          "stock": 56
         },
         {
           "name": "dnaka@github",
@@ -4029,17 +4034,17 @@
         {
           "name": "oh_rusty_nail",
           "post": 75,
-          "stock": 1492
+          "stock": 1510
         },
         {
           "name": "budougumi0617",
           "post": 40,
-          "stock": 767
+          "stock": 782
         },
         {
           "name": "kazuqqfp",
           "post": 16,
-          "stock": 252
+          "stock": 255
         },
         {
           "name": "hilohiro",
@@ -4054,7 +4059,7 @@
         {
           "name": "kmats@github",
           "post": 36,
-          "stock": 253
+          "stock": 257
         },
         {
           "name": "typedow@github",
@@ -4073,23 +4078,23 @@
         },
         {
           "name": "ukiuni@github",
-          "post": 38,
-          "stock": 1267
+          "post": 39,
+          "stock": 1301
         },
         {
           "name": "taketomato",
           "post": 2,
-          "stock": 18
+          "stock": 19
         },
         {
           "name": "hishida",
-          "post": 18,
-          "stock": 129
+          "post": 19,
+          "stock": 134
         },
         {
           "name": "nomadmonad",
           "post": 16,
-          "stock": 269
+          "stock": 278
         },
         {
           "name": "aizawa1126",
@@ -4104,7 +4109,7 @@
         {
           "name": "arai-wa",
           "post": 19,
-          "stock": 1080
+          "stock": 1094
         },
         {
           "name": "yhiranoo",
@@ -4124,17 +4129,17 @@
         {
           "name": "shingargle",
           "post": 1,
-          "stock": 73
+          "stock": 75
         },
         {
           "name": "chihiro",
           "post": 22,
-          "stock": 169
+          "stock": 172
         },
         {
           "name": "yk-nakamura",
           "post": 4,
-          "stock": 19
+          "stock": 21
         },
         {
           "name": "teradas",
@@ -4191,12 +4196,12 @@
         {
           "name": "zaru",
           "post": 48,
-          "stock": 2316
+          "stock": 2365
         },
         {
           "name": "hitomi_",
           "post": 9,
-          "stock": 51
+          "stock": 52
         },
         {
           "name": "ykyk1218",
@@ -4206,17 +4211,17 @@
         {
           "name": "jtemplej",
           "post": 12,
-          "stock": 543
+          "stock": 562
         },
         {
           "name": "KawabataLemon",
           "post": 16,
-          "stock": 177
+          "stock": 181
         },
         {
           "name": "kkyouhei",
-          "post": 25,
-          "stock": 282
+          "post": 26,
+          "stock": 296
         },
         {
           "name": "s-mori",
@@ -4225,8 +4230,8 @@
         },
         {
           "name": "mmusasabi",
-          "post": 28,
-          "stock": 196
+          "post": 30,
+          "stock": 201
         },
         {
           "name": "bokuo-okubo",
@@ -4241,7 +4246,7 @@
         {
           "name": "skatata",
           "post": 10,
-          "stock": 305
+          "stock": 308
         },
         {
           "name": "kak1",
@@ -4251,17 +4256,17 @@
         {
           "name": "mochizukikotaro",
           "post": 91,
-          "stock": 1068
+          "stock": 1097
         },
         {
           "name": "koitaro",
           "post": 1,
-          "stock": 39
+          "stock": 41
         },
         {
           "name": "Kaki_Shoichi",
           "post": 6,
-          "stock": 43
+          "stock": 44
         },
         {
           "name": "na1412",
@@ -4307,8 +4312,8 @@
       "members": [
         {
           "name": "sue738",
-          "post": 71,
-          "stock": 1085
+          "post": 72,
+          "stock": 1099
         },
         {
           "name": "beta_chelsea",
@@ -4318,7 +4323,7 @@
         {
           "name": "pakiran",
           "post": 4,
-          "stock": 71
+          "stock": 74
         },
         {
           "name": "mktakuya",
@@ -4332,8 +4337,8 @@
         },
         {
           "name": "nagatasci",
-          "post": 21,
-          "stock": 203
+          "post": 22,
+          "stock": 212
         }
       ]
     },
@@ -4344,17 +4349,17 @@
         {
           "name": "hnakamur",
           "post": 176,
-          "stock": 2929
+          "stock": 2967
         },
         {
           "name": "yd_niku",
           "post": 20,
-          "stock": 189
+          "stock": 192
         },
         {
           "name": "yusabana",
           "post": 16,
-          "stock": 1115
+          "stock": 1128
         },
         {
           "name": "ariyo13",
@@ -4369,12 +4374,12 @@
         {
           "name": "harunapple",
           "post": 2,
-          "stock": 28
+          "stock": 29
         },
         {
           "name": "mag4n",
           "post": 15,
-          "stock": 254
+          "stock": 263
         },
         {
           "name": "yukin",
@@ -4389,7 +4394,7 @@
         {
           "name": "volkuwabara",
           "post": 12,
-          "stock": 171
+          "stock": 179
         }
       ]
     },
@@ -4400,7 +4405,7 @@
         {
           "name": "dz_",
           "post": 36,
-          "stock": 256
+          "stock": 258
         },
         {
           "name": "f_prg",
@@ -4410,7 +4415,7 @@
         {
           "name": "yoshidashingo",
           "post": 6,
-          "stock": 569
+          "stock": 573
         },
         {
           "name": "kazgoto",
@@ -4419,13 +4424,13 @@
         },
         {
           "name": "inokappa",
-          "post": 303,
-          "stock": 1917
+          "post": 308,
+          "stock": 1987
         },
         {
           "name": "kazumihirose",
           "post": 16,
-          "stock": 112
+          "stock": 113
         },
         {
           "name": "memorycraft",
@@ -4434,13 +4439,13 @@
         },
         {
           "name": "saitara",
-          "post": 0,
-          "stock": 0
+          "post": 4,
+          "stock": 11
         },
         {
           "name": "arai",
           "post": 2,
-          "stock": 19
+          "stock": 20
         },
         {
           "name": "fnifni",
@@ -4455,12 +4460,12 @@
         {
           "name": "SatoHiroyuki",
           "post": 22,
-          "stock": 104
+          "stock": 106
         },
         {
           "name": "mitzi2funk",
           "post": 10,
-          "stock": 95
+          "stock": 97
         },
         {
           "name": "tt2004d",
@@ -4475,7 +4480,7 @@
         {
           "name": "ken1",
           "post": 4,
-          "stock": 28
+          "stock": 29
         }
       ]
     },
@@ -4486,27 +4491,27 @@
         {
           "name": "shu_0115",
           "post": 76,
-          "stock": 2019
+          "stock": 2032
         },
         {
           "name": "shigekid",
           "post": 16,
-          "stock": 91
+          "stock": 92
         },
         {
           "name": "okappy",
           "post": 20,
-          "stock": 2791
+          "stock": 2813
         },
         {
           "name": "ysk_1031",
           "post": 38,
-          "stock": 588
+          "stock": 598
         },
         {
           "name": "moriyaman",
           "post": 39,
-          "stock": 1109
+          "stock": 1132
         },
         {
           "name": "tallman",
@@ -4516,7 +4521,7 @@
         {
           "name": "masamitsu-konya",
           "post": 26,
-          "stock": 507
+          "stock": 514
         },
         {
           "name": "kid84",
@@ -4526,7 +4531,7 @@
         {
           "name": "rtoya",
           "post": 5,
-          "stock": 31
+          "stock": 34
         },
         {
           "name": "kumi1132",
@@ -4536,7 +4541,7 @@
         {
           "name": "seiya1121",
           "post": 30,
-          "stock": 348
+          "stock": 355
         }
       ]
     },
@@ -4547,17 +4552,17 @@
         {
           "name": "qckanemoto",
           "post": 21,
-          "stock": 187
+          "stock": 190
         },
         {
           "name": "77web@github",
           "post": 3,
-          "stock": 62
+          "stock": 63
         },
         {
           "name": "lga0503",
           "post": 13,
-          "stock": 358
+          "stock": 363
         }
       ]
     },
@@ -4568,12 +4573,12 @@
         {
           "name": "kouyaf77@github",
           "post": 16,
-          "stock": 114
+          "stock": 116
         },
         {
           "name": "norifumi",
           "post": 11,
-          "stock": 64
+          "stock": 66
         },
         {
           "name": "johnny-miyake",
@@ -4588,7 +4593,7 @@
         {
           "name": "bs90",
           "post": 2,
-          "stock": 19
+          "stock": 20
         }
       ]
     },
@@ -4604,7 +4609,7 @@
         {
           "name": "n-oshiro",
           "post": 16,
-          "stock": 188
+          "stock": 191
         },
         {
           "name": "k-masaki",
@@ -4619,7 +4624,7 @@
         {
           "name": "y-hara",
           "post": 2,
-          "stock": 26
+          "stock": 28
         },
         {
           "name": "neko88",
@@ -4635,7 +4640,7 @@
         {
           "name": "kotakagi",
           "post": 2,
-          "stock": 21
+          "stock": 23
         },
         {
           "name": "YusukeYamamoto",
@@ -4644,13 +4649,13 @@
         },
         {
           "name": "tadfmac",
-          "post": 43,
-          "stock": 575
+          "post": 47,
+          "stock": 605
         },
         {
           "name": "tomoyukilabs",
           "post": 10,
-          "stock": 194
+          "stock": 204
         },
         {
           "name": "kkei",
@@ -4670,7 +4675,7 @@
         {
           "name": "bluebird",
           "post": 2,
-          "stock": 58
+          "stock": 59
         },
         {
           "name": "simdroid",
@@ -4685,7 +4690,7 @@
         {
           "name": "AKN619",
           "post": 1,
-          "stock": 7
+          "stock": 9
         }
       ]
     },
@@ -4696,7 +4701,7 @@
         {
           "name": "sotayamashita",
           "post": 18,
-          "stock": 1403
+          "stock": 1415
         },
         {
           "name": "mugi65",
@@ -4706,7 +4711,7 @@
         {
           "name": "shuntaro_tamura",
           "post": 46,
-          "stock": 531
+          "stock": 551
         },
         {
           "name": "uchidas",
@@ -4736,8 +4741,8 @@
         },
         {
           "name": "yokozawa",
-          "post": 19,
-          "stock": 110
+          "post": 20,
+          "stock": 121
         },
         {
           "name": "genki0406",
@@ -4761,11 +4766,6 @@
       "page": "http://qiita.com/organizations/justsystems",
       "members": [
         {
-          "name": "tomato360",
-          "post": 31,
-          "stock": 182
-        },
-        {
           "name": "don_hanabi",
           "post": 3,
           "stock": 14
@@ -4773,12 +4773,12 @@
         {
           "name": "eiryu",
           "post": 19,
-          "stock": 78
+          "stock": 79
         },
         {
           "name": "yutetsu",
           "post": 7,
-          "stock": 50
+          "stock": 51
         },
         {
           "name": "aikawa-tky",
@@ -4809,17 +4809,17 @@
         {
           "name": "pugiemonn",
           "post": 92,
-          "stock": 616
+          "stock": 636
         },
         {
           "name": "liubin",
           "post": 52,
-          "stock": 134
+          "stock": 135
         },
         {
           "name": "icb54615",
           "post": 86,
-          "stock": 712
+          "stock": 726
         },
         {
           "name": "ponpoko1968",
@@ -4834,7 +4834,7 @@
         {
           "name": "katahirado",
           "post": 20,
-          "stock": 95
+          "stock": 97
         },
         {
           "name": "YuichiKitajima",
@@ -4860,7 +4860,7 @@
         {
           "name": "s-kiriki",
           "post": 31,
-          "stock": 610
+          "stock": 628
         },
         {
           "name": "tomiyama-qwt",
@@ -4885,12 +4885,7 @@
         {
           "name": "hirata-qwt",
           "post": 6,
-          "stock": 27
-        },
-        {
-          "name": "motoyan-qwt",
-          "post": 2,
-          "stock": 79
+          "stock": 28
         },
         {
           "name": "tomoyosakai",
@@ -4921,7 +4916,7 @@
         {
           "name": "unosk",
           "post": 11,
-          "stock": 582
+          "stock": 586
         },
         {
           "name": "kanon_ayuayu",
@@ -4931,17 +4926,17 @@
         {
           "name": "kawanabe",
           "post": 7,
-          "stock": 559
+          "stock": 560
         },
         {
           "name": "pandora2000",
           "post": 11,
-          "stock": 33
+          "stock": 34
         },
         {
           "name": "hanzochang",
           "post": 3,
-          "stock": 26
+          "stock": 27
         }
       ]
     },
@@ -4952,7 +4947,7 @@
         {
           "name": "dogyear",
           "post": 19,
-          "stock": 148
+          "stock": 151
         },
         {
           "name": "lab3-34",
@@ -4972,7 +4967,7 @@
         {
           "name": "BEMU",
           "post": 9,
-          "stock": 40
+          "stock": 41
         },
         {
           "name": "miupink",
@@ -4997,13 +4992,13 @@
         },
         {
           "name": "fantasista_21jp",
-          "post": 3,
-          "stock": 6
+          "post": 4,
+          "stock": 7
         },
         {
           "name": "kawahiro311",
           "post": 4,
-          "stock": 36
+          "stock": 37
         },
         {
           "name": "withelmo",
@@ -5022,8 +5017,8 @@
         },
         {
           "name": "ya_ma23",
-          "post": 2,
-          "stock": 13
+          "post": 3,
+          "stock": 14
         },
         {
           "name": "denroku",
@@ -5033,7 +5028,7 @@
         {
           "name": "Kta-M",
           "post": 25,
-          "stock": 411
+          "stock": 424
         },
         {
           "name": "____rina____",
@@ -5043,7 +5038,7 @@
         {
           "name": "kozo",
           "post": 10,
-          "stock": 65
+          "stock": 67
         },
         {
           "name": "sadapon2008",
@@ -5089,12 +5084,12 @@
         {
           "name": "bananaumai",
           "post": 9,
-          "stock": 64
+          "stock": 67
         },
         {
           "name": "suisho",
-          "post": 20,
-          "stock": 225
+          "post": 21,
+          "stock": 314
         },
         {
           "name": "vikke",
@@ -5104,12 +5099,12 @@
         {
           "name": "zucay",
           "post": 5,
-          "stock": 69
+          "stock": 73
         },
         {
           "name": "takeshinoda@github",
           "post": 1,
-          "stock": 247
+          "stock": 254
         },
         {
           "name": "na-o-ys",
@@ -5128,28 +5123,28 @@
         },
         {
           "name": "ma2saka",
-          "post": 34,
-          "stock": 342
+          "post": 35,
+          "stock": 351
         },
         {
           "name": "masahixixi",
           "post": 19,
-          "stock": 131
+          "stock": 135
         },
         {
           "name": "y-ken",
           "post": 29,
-          "stock": 129
+          "stock": 133
         },
         {
           "name": "ftakao2007",
           "post": 13,
-          "stock": 215
+          "stock": 220
         },
         {
           "name": "shukotang",
           "post": 1,
-          "stock": 397
+          "stock": 408
         },
         {
           "name": "thermes",
@@ -5159,7 +5154,7 @@
         {
           "name": "sion_cojp",
           "post": 13,
-          "stock": 2411
+          "stock": 2433
         },
         {
           "name": "kekekenta",
@@ -5169,17 +5164,17 @@
         {
           "name": "muran001",
           "post": 22,
-          "stock": 4348
+          "stock": 4707
         },
         {
           "name": "dkatsura",
           "post": 1,
-          "stock": 9
+          "stock": 10
         },
         {
           "name": "take-m",
           "post": 1,
-          "stock": 21
+          "stock": 22
         },
         {
           "name": "eri",
@@ -5193,13 +5188,13 @@
         },
         {
           "name": "kiyodori",
-          "post": 13,
-          "stock": 57
+          "post": 15,
+          "stock": 64
         },
         {
           "name": "hiro_koba",
           "post": 1,
-          "stock": 69
+          "stock": 71
         }
       ]
     },
@@ -5210,22 +5205,22 @@
         {
           "name": "sutetotanuki",
           "post": 9,
-          "stock": 786
+          "stock": 788
         },
         {
           "name": "izumin5210",
           "post": 33,
-          "stock": 641
+          "stock": 655
         },
         {
           "name": "taiyop",
           "post": 9,
-          "stock": 1300
+          "stock": 1307
         },
         {
           "name": "techno-tanoC",
           "post": 11,
-          "stock": 99
+          "stock": 102
         }
       ]
     },
@@ -5235,8 +5230,8 @@
       "members": [
         {
           "name": "ngyuki",
-          "post": 147,
-          "stock": 1300
+          "post": 148,
+          "stock": 1316
         },
         {
           "name": "ArimaRyunosuke",
@@ -5257,7 +5252,7 @@
         {
           "name": "umeume66",
           "post": 9,
-          "stock": 29
+          "stock": 32
         },
         {
           "name": "usk",
@@ -5267,7 +5262,7 @@
         {
           "name": "matsuoshi",
           "post": 9,
-          "stock": 94
+          "stock": 98
         },
         {
           "name": "satakeshi",
@@ -5298,22 +5293,22 @@
         {
           "name": "okmttdhr",
           "post": 19,
-          "stock": 199
+          "stock": 201
         },
         {
           "name": "keisukeohta",
           "post": 13,
-          "stock": 148
+          "stock": 155
         },
         {
           "name": "rayc5",
           "post": 11,
-          "stock": 175
+          "stock": 178
         },
         {
           "name": "kgmyshin",
           "post": 19,
-          "stock": 1093
+          "stock": 1112
         },
         {
           "name": "yudai",
@@ -5328,7 +5323,7 @@
         {
           "name": "SanoHiroshi",
           "post": 3,
-          "stock": 31
+          "stock": 34
         },
         {
           "name": "yukimaeto",
@@ -5344,7 +5339,7 @@
         {
           "name": "tachiba",
           "post": 41,
-          "stock": 945
+          "stock": 954
         },
         {
           "name": "takumiumiu",
@@ -5354,7 +5349,7 @@
         {
           "name": "junsumida",
           "post": 12,
-          "stock": 78
+          "stock": 82
         },
         {
           "name": "fista",
@@ -5375,17 +5370,17 @@
         {
           "name": "r_rudi",
           "post": 7,
-          "stock": 117
+          "stock": 118
         },
         {
           "name": "hfunai",
           "post": 4,
-          "stock": 73
+          "stock": 74
         },
         {
           "name": "cortyuming",
           "post": 4,
-          "stock": 86
+          "stock": 92
         }
       ]
     },
@@ -5396,12 +5391,12 @@
         {
           "name": "ganezasan",
           "post": 23,
-          "stock": 248
+          "stock": 250
         },
         {
           "name": "isseium",
           "post": 34,
-          "stock": 339
+          "stock": 344
         },
         {
           "name": "s4shiki",
@@ -5417,7 +5412,7 @@
         {
           "name": "koher",
           "post": 22,
-          "stock": 1476
+          "stock": 1558
         },
         {
           "name": "hayaq",
@@ -5437,8 +5432,8 @@
       "members": [
         {
           "name": "buzztaiki",
-          "post": 1,
-          "stock": 8
+          "post": 2,
+          "stock": 14
         },
         {
           "name": "sasagon",
@@ -5448,7 +5443,7 @@
         {
           "name": "zoetro",
           "post": 20,
-          "stock": 1906
+          "stock": 1922
         },
         {
           "name": "liris",
@@ -5458,17 +5453,17 @@
         {
           "name": "takamura_s",
           "post": 2,
-          "stock": 9
+          "stock": 10
         },
         {
           "name": "ysksuzuki",
           "post": 3,
-          "stock": 31
+          "stock": 34
         },
         {
           "name": "r_takaishi",
           "post": 1,
-          "stock": 10
+          "stock": 13
         },
         {
           "name": "goami",
@@ -5505,17 +5500,17 @@
         {
           "name": "makiton",
           "post": 16,
-          "stock": 77
+          "stock": 82
         },
         {
           "name": "ppworks",
           "post": 58,
-          "stock": 462
+          "stock": 467
         },
         {
           "name": "s_nakamura",
           "post": 9,
-          "stock": 140
+          "stock": 143
         },
         {
           "name": "fukaoi",
@@ -5525,22 +5520,22 @@
         {
           "name": "ryoff",
           "post": 13,
-          "stock": 166
+          "stock": 174
         },
         {
           "name": "syguer",
-          "post": 2,
-          "stock": 12
+          "post": 3,
+          "stock": 14
         },
         {
           "name": "hachinobu",
           "post": 5,
-          "stock": 326
+          "stock": 333
         },
         {
           "name": "tyamagu2",
           "post": 7,
-          "stock": 123
+          "stock": 126
         },
         {
           "name": "okuno",
@@ -5585,8 +5580,8 @@
       "members": [
         {
           "name": "ktz47",
-          "post": 6,
-          "stock": 89
+          "post": 7,
+          "stock": 97
         },
         {
           "name": "kimutyam",
@@ -5626,7 +5621,7 @@
         {
           "name": "h0ng0yut0",
           "post": 2,
-          "stock": 334
+          "stock": 337
         },
         {
           "name": "t_hirohata",
@@ -5646,12 +5641,12 @@
         {
           "name": "t_kamata",
           "post": 1,
-          "stock": 19
+          "stock": 18
         },
         {
           "name": "i_terasaka",
           "post": 1,
-          "stock": 34
+          "stock": 37
         },
         {
           "name": "n_yunoue",
@@ -5686,13 +5681,13 @@
       "members": [
         {
           "name": "osamu1203",
-          "post": 45,
-          "stock": 806
+          "post": 47,
+          "stock": 843
         },
         {
           "name": "hiroo0529",
           "post": 19,
-          "stock": 57
+          "stock": 60
         },
         {
           "name": "hiranai",
@@ -5718,7 +5713,7 @@
         {
           "name": "takus",
           "post": 8,
-          "stock": 70
+          "stock": 74
         },
         {
           "name": "taketon_",
@@ -5728,12 +5723,12 @@
         {
           "name": "mach",
           "post": 5,
-          "stock": 139
+          "stock": 141
         },
         {
           "name": "komiya_atsushi",
           "post": 23,
-          "stock": 209
+          "stock": 215
         },
         {
           "name": "tamtam180",
@@ -5763,7 +5758,7 @@
         {
           "name": "moaikids",
           "post": 3,
-          "stock": 34
+          "stock": 36
         },
         {
           "name": "kainoku",
@@ -5822,9 +5817,14 @@
       "page": "http://qiita.com/organizations/idcf",
       "members": [
         {
+          "name": "snumano",
+          "post": 6,
+          "stock": 30
+        },
+        {
           "name": "atsaki",
-          "post": 22,
-          "stock": 180
+          "post": 23,
+          "stock": 196
         },
         {
           "name": "hal-k",
@@ -5834,17 +5834,17 @@
         {
           "name": "yhidai",
           "post": 3,
-          "stock": 31
+          "stock": 33
         },
         {
           "name": "nownabe",
           "post": 25,
-          "stock": 579
+          "stock": 587
         },
         {
           "name": "akito1986",
-          "post": 25,
-          "stock": 183
+          "post": 27,
+          "stock": 192
         },
         {
           "name": "anikundesu",
@@ -5859,8 +5859,8 @@
       "members": [
         {
           "name": "zimathon",
-          "post": 4,
-          "stock": 30
+          "post": 5,
+          "stock": 31
         },
         {
           "name": "rei-m",
@@ -5869,13 +5869,13 @@
         },
         {
           "name": "kentana20",
-          "post": 10,
-          "stock": 49
+          "post": 11,
+          "stock": 56
         },
         {
           "name": "nagais",
-          "post": 8,
-          "stock": 57
+          "post": 11,
+          "stock": 94
         },
         {
           "name": "Senba",
@@ -5901,7 +5901,7 @@
         {
           "name": "44d",
           "post": 7,
-          "stock": 11
+          "stock": 12
         },
         {
           "name": "green-tea",
@@ -5917,7 +5917,7 @@
         {
           "name": "satococoa",
           "post": 24,
-          "stock": 425
+          "stock": 430
         },
         {
           "name": "yonestra",
@@ -5927,37 +5927,37 @@
         {
           "name": "ikm",
           "post": 30,
-          "stock": 371
+          "stock": 372
         },
         {
           "name": "jarinosuke",
           "post": 2,
-          "stock": 69
+          "stock": 70
         },
         {
           "name": "DianthuDia",
           "post": 12,
-          "stock": 48
+          "stock": 49
         },
         {
           "name": "u16suzu",
           "post": 8,
-          "stock": 76
+          "stock": 77
         },
         {
           "name": "t2low",
           "post": 9,
-          "stock": 510
+          "stock": 517
         },
         {
           "name": "marutanm",
           "post": 5,
-          "stock": 103
+          "stock": 106
         },
         {
           "name": "natsu871",
           "post": 5,
-          "stock": 178
+          "stock": 181
         },
         {
           "name": "tyfrontier",
@@ -5993,7 +5993,7 @@
         {
           "name": "WorldDownTown",
           "post": 2,
-          "stock": 78
+          "stock": 81
         },
         {
           "name": "kyuns",
@@ -6003,7 +6003,7 @@
         {
           "name": "nissiy",
           "post": 3,
-          "stock": 62
+          "stock": 65
         },
         {
           "name": "Horie1024",
@@ -6028,7 +6028,7 @@
         {
           "name": "karly",
           "post": 1,
-          "stock": 25
+          "stock": 29
         }
       ]
     },
@@ -6038,8 +6038,8 @@
       "members": [
         {
           "name": "suin",
-          "post": 426,
-          "stock": 9036
+          "post": 427,
+          "stock": 9154
         },
         {
           "name": "reoring",
@@ -6059,13 +6059,13 @@
       "members": [
         {
           "name": "youyo_",
-          "post": 6,
-          "stock": 8
+          "post": 8,
+          "stock": 11
         },
         {
           "name": "biatunky",
           "post": 8,
-          "stock": 45
+          "stock": 47
         }
       ]
     },
@@ -6075,7 +6075,7 @@
       "members": [
         {
           "name": "s_s_k",
-          "post": 21,
+          "post": 22,
           "stock": 31
         },
         {
@@ -6092,7 +6092,7 @@
         {
           "name": "tomorier",
           "post": 6,
-          "stock": 66
+          "stock": 67
         },
         {
           "name": "yoshidumi",
@@ -6118,7 +6118,7 @@
         {
           "name": "robotstart",
           "post": 6,
-          "stock": 96
+          "stock": 98
         },
         {
           "name": "kitagamae",
@@ -6133,7 +6133,7 @@
         {
           "name": "MakitoTashiro",
           "post": 2,
-          "stock": 10
+          "stock": 12
         },
         {
           "name": "asatoshi",
@@ -6149,7 +6149,7 @@
         {
           "name": "laiso",
           "post": 76,
-          "stock": 376
+          "stock": 378
         },
         {
           "name": "a_matsuda",
@@ -6164,7 +6164,7 @@
         {
           "name": "pomu0325",
           "post": 15,
-          "stock": 127
+          "stock": 126
         },
         {
           "name": "youchan@github",
@@ -6220,22 +6220,22 @@
         {
           "name": "hnakagawa",
           "post": 2,
-          "stock": 118
+          "stock": 121
         },
         {
           "name": "jfsso",
           "post": 6,
-          "stock": 105
+          "stock": 106
         },
         {
           "name": "KeithYokoma",
-          "post": 86,
-          "stock": 5273
+          "post": 89,
+          "stock": 5362
         },
         {
           "name": "KAKKA",
           "post": 3,
-          "stock": 40
+          "stock": 43
         }
       ]
     },
@@ -6245,13 +6245,13 @@
       "members": [
         {
           "name": "y_minowa",
-          "post": 20,
-          "stock": 116
+          "post": 22,
+          "stock": 126
         },
         {
           "name": "shunhikita",
-          "post": 15,
-          "stock": 67
+          "post": 17,
+          "stock": 88
         },
         {
           "name": "jsaito",
@@ -6265,8 +6265,8 @@
         },
         {
           "name": "SUZUKI_Masaya",
-          "post": 13,
-          "stock": 37
+          "post": 15,
+          "stock": 46
         },
         {
           "name": "masaki_nukaga",
@@ -6282,7 +6282,7 @@
         {
           "name": "y_matsuwitter",
           "post": 45,
-          "stock": 943
+          "stock": 945
         },
         {
           "name": "cou_z",
@@ -6292,17 +6292,17 @@
         {
           "name": "fukkyy",
           "post": 75,
-          "stock": 460
+          "stock": 466
         },
         {
           "name": "beatinaniwa",
           "post": 2,
-          "stock": 169
+          "stock": 171
         },
         {
           "name": "ysks3n",
           "post": 17,
-          "stock": 322
+          "stock": 325
         },
         {
           "name": "n_sakuma",
@@ -6322,12 +6322,12 @@
         {
           "name": "Jeffsuke",
           "post": 2,
-          "stock": 26
+          "stock": 27
         },
         {
           "name": "aita",
           "post": 12,
-          "stock": 47
+          "stock": 52
         },
         {
           "name": "hmiorroi",
@@ -6337,7 +6337,7 @@
         {
           "name": "hkurokawa",
           "post": 5,
-          "stock": 181
+          "stock": 190
         },
         {
           "name": "sozorogami",
@@ -6347,22 +6347,22 @@
         {
           "name": "kyokomi",
           "post": 20,
-          "stock": 258
+          "stock": 261
         },
         {
           "name": "satoshi03",
           "post": 8,
-          "stock": 93
+          "stock": 96
         },
         {
           "name": "shunsukeaihara",
-          "post": 3,
-          "stock": 52
+          "post": 4,
+          "stock": 54
         },
         {
           "name": "tyshgc",
           "post": 11,
-          "stock": 126
+          "stock": 132
         },
         {
           "name": "koid",
@@ -6408,7 +6408,7 @@
         {
           "name": "hedjirog",
           "post": 5,
-          "stock": 354
+          "stock": 355
         },
         {
           "name": "yasuzuki",
@@ -6423,7 +6423,7 @@
         {
           "name": "halhide",
           "post": 21,
-          "stock": 98
+          "stock": 100
         },
         {
           "name": "tatsuhama",
@@ -6438,7 +6438,7 @@
         {
           "name": "ea54595",
           "post": 4,
-          "stock": 152
+          "stock": 156
         },
         {
           "name": "igrep",
@@ -6473,7 +6473,7 @@
         {
           "name": "pekepek",
           "post": 5,
-          "stock": 15
+          "stock": 17
         },
         {
           "name": "tm-senda",
@@ -6524,12 +6524,12 @@
         {
           "name": "hampom",
           "post": 4,
-          "stock": 9
+          "stock": 12
         },
         {
           "name": "bitai",
           "post": 3,
-          "stock": 12
+          "stock": 14
         },
         {
           "name": "lifegood",
@@ -6545,7 +6545,7 @@
         {
           "name": "misopeso",
           "post": 15,
-          "stock": 295
+          "stock": 302
         },
         {
           "name": "tomichan_jp",
@@ -6566,7 +6566,7 @@
         {
           "name": "narvaux",
           "post": 9,
-          "stock": 14
+          "stock": 17
         },
         {
           "name": "kmrshntr@github",
@@ -6642,7 +6642,7 @@
         {
           "name": "closer",
           "post": 3,
-          "stock": 121
+          "stock": 122
         },
         {
           "name": "ThreeTreesLight",
@@ -6652,7 +6652,7 @@
         {
           "name": "jollyjoester",
           "post": 12,
-          "stock": 85
+          "stock": 87
         },
         {
           "name": "edwardkenfox",
@@ -6673,7 +6673,7 @@
         {
           "name": "tyabe",
           "post": 17,
-          "stock": 590
+          "stock": 595
         },
         {
           "name": "mknkisk",
@@ -6683,7 +6683,7 @@
         {
           "name": "yakiimo23",
           "post": 5,
-          "stock": 36
+          "stock": 38
         }
       ]
     },
@@ -6713,13 +6713,13 @@
         },
         {
           "name": "Shuuuuuuun",
-          "post": 0,
-          "stock": 0
+          "post": 1,
+          "stock": 4
         },
         {
           "name": "bami3",
-          "post": 4,
-          "stock": 19
+          "post": 6,
+          "stock": 27
         },
         {
           "name": "gorori",
@@ -6760,12 +6760,12 @@
         {
           "name": "sshojiro",
           "post": 10,
-          "stock": 36
+          "stock": 37
         },
         {
           "name": "usatie",
-          "post": 2,
-          "stock": 10
+          "post": 3,
+          "stock": 13
         },
         {
           "name": "Hiro51",
@@ -6805,8 +6805,8 @@
         },
         {
           "name": "h5y1m141@github",
-          "post": 22,
-          "stock": 164
+          "post": 23,
+          "stock": 166
         },
         {
           "name": "hassy0607",
@@ -6815,13 +6815,13 @@
         },
         {
           "name": "katsukii",
-          "post": 53,
-          "stock": 191
+          "post": 58,
+          "stock": 232
         },
         {
           "name": "hirogw",
-          "post": 1,
-          "stock": 0
+          "post": 2,
+          "stock": 1
         },
         {
           "name": "HasebeKohei",
@@ -6846,8 +6846,8 @@
       "members": [
         {
           "name": "kamesennin",
-          "post": 13,
-          "stock": 48
+          "post": 14,
+          "stock": 49
         },
         {
           "name": "negi",
@@ -6860,7 +6860,120 @@
           "stock": 2
         }
       ]
+    },
+    {
+      "name": "Syoya, Inc.（笑屋株式会社）",
+      "page": "http://qiita.com/organizations/syoya",
+      "members": [
+        {
+          "name": "qurage",
+          "post": 18,
+          "stock": 182
+        },
+        {
+          "name": "supermomonga",
+          "post": 5,
+          "stock": 549
+        },
+        {
+          "name": "minodisk",
+          "post": 12,
+          "stock": 159
+        },
+        {
+          "name": "gutchom",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kobekko",
+          "post": 1,
+          "stock": 18
+        },
+        {
+          "name": "x5gtrn",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "LubonTheThird",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "trikoji",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "meta_closure",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "malo-rin",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社ユードー",
+      "page": "http://qiita.com/organizations/yudo",
+      "members": [
+        {
+          "name": "unhappychoice",
+          "post": 5,
+          "stock": 93
+        },
+        {
+          "name": "iri",
+          "post": 5,
+          "stock": 40
+        },
+        {
+          "name": "aron",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "hashimoto84",
+          "post": 0,
+          "stock": 0
+        }
+      ]
+    },
+    {
+      "name": "株式会社ラグザイア",
+      "page": "http://qiita.com/organizations/luxiar",
+      "members": [
+        {
+          "name": "ledsun",
+          "post": 18,
+          "stock": 92
+        },
+        {
+          "name": "yusuke-matsuda",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "mtsuge",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "kurubushionline",
+          "post": 0,
+          "stock": 0
+        },
+        {
+          "name": "aiyu427",
+          "post": 0,
+          "stock": 0
+        }
+      ]
     }
   ],
-  "lastUpdate": 1424459423575
+  "lastUpdate": 1425064241480
 }
