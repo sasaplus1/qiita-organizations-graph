@@ -1,5 +1,5 @@
 d3.json('index.json', function(err, data) {
-  var barSetting, pieSetting;
+  var barSetting, pieSetting, nav, main;
 
   if (err) {
     throw err;
@@ -155,4 +155,9 @@ d3.json('index.json', function(err, data) {
       }
     }
   });
+
+  nav = document.querySelector('nav');
+  main = document.querySelector('main');
+
+  nav.style.height = main.offsetHeight + 'px';
 });
