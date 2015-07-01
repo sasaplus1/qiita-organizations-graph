@@ -1,8 +1,12 @@
 {
   "private": true,
+  "scripts": {
+    "start": "node --harmony_arrow_functions ./scrape.js"
+  },
   "devDependencies": {
-    "bluebird": "^2.3.2",
-    "cheerio": "^0.17.0",
-    "request": "^2.37.0"
+    "cheerio": "^0.19.0",
+    "co": "^4.5.4",
+    "request": "^2.58.0",
+    "thunkify": "^2.1.2"
   }
 }
