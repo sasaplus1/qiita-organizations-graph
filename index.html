@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta charset="utf-8">
     <title>Qiita organizations graph</title>
-    <link rel="stylesheet" href="c3.css">
     <link rel="stylesheet" href="index.css">
   </head>
   <body>
+
     <!-- GitHub ribbon -->
     <a href="https://github.com/sasaplus1/qiita-organizations-graph">
       <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png">
     </a>
+
     <header>
       <h1>Qiita organizations graph</h1>
       <div class="share-area">
@@ -19,23 +21,25 @@
         <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="standard-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
       </div>
     </header>
+
     <nav>
       <ul>
         <li data-v-repeat="organizations">
-          <a data-v-cloak href="javascript:void 0" data-organization="{{$value}}" data-v-text="$value" data-v-on="click: changeOrganization"></a>
+          <a data-v-cloak href="javascript:void 0" data-organization="{{ $value }}" data-v-text="$value" data-v-on="click: changeOrganization"></a>
         </li>
       </ul>
     </nav>
+
     <main role="main">
       <h2>
         <a data-v-cloak data-v-text="organization.name" data-v-attr="href: organization.page"></a>
       </h2>
       <div class="type-area">
         <label for="radio-stock">
-          <input id="radio-stock" type="radio" name="type" value="stock" data-v-model="type" data-v-on="click: changeType">ストック数
+          <input id="radio-stock" type="radio" name="type" value="stock" data-v-model="graphType" data-v-on="click: changeGraphType">ストック数
         </label>
         <label for="radio-post">
-          <input id="radio-post" type="radio" name="type" value="post" data-v-model="type" data-v-on="click: changeType">投稿数
+          <input id="radio-post" type="radio" name="type" value="post" data-v-model="graphType" data-v-on="click: changeGraphType">投稿数
         </label>
       </div>
       <div class="graph-area">
@@ -43,19 +47,35 @@
         <div class="pie"></div>
       <div>
     </main>
+
     <footer>
       <small>
-        lastUpdate: <time data-v-cloak datetime="{{lastUpdate.datetime}}" data-v-text="lastUpdate.text"></time>
+        lastUpdate: <time data-v-cloak datetime="{{ lastUpdate.datetime }}" data-v-text="lastUpdate.text"></time>
       </small>
     </footer>
+
     <!-- page scripts -->
-    <script src="lodash.min.js"></script>
-    <script src="vue.min.js"></script>
-    <script src="d3.min.js"></script>
-    <script src="c3.min.js"></script>
+    <script src="bundle.js"></script>
     <script src="index.js"></script>
+
     <!-- sns scripts -->
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-    <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+    <script>window.twttr = (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+     
+      t._e = [];
+      t.ready = function(f) {
+        t._e.push(f);
+      };
+     
+      return t;
+    }(document, "script", "twitter-wjs"));</script>
+    <script src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
   </body>
 </html>

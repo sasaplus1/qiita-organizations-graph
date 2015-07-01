@@ -1,0 +1,21 @@
+barConfig:
+  bar:
+    width:
+      ratio: 0.98
+  size:
+    height: 350
+  axis:
+    y:
+      label:
+        position: outer-middle
+  grid:
+    y:
+      show: true
+  data:
+    type: bar
+
+pieConfig:
+  size:
+    height: 350
+  data:
+    type: pie
