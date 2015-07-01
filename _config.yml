@@ -7,7 +7,12 @@ exclude:
   - LICENSE
   - README.md
   - Rakefile
+  - graph.yaml
+  - index.json
+  - index.jsx
   - node_modules
   - package.json
-  - server.js
+  - scrape.js
   - vendor
+  - webpack.config.coffee
+  - webpack.config.js
